@@ -1,0 +1,14 @@
+# Backend API dependencies.
+# scikit-learn is pinned to the version the .joblib models were trained with
+# (1.6.1). Loading them with a newer minor version raises
+# InconsistentVersionWarning and risks incompatible internals.
+Flask==3.1.0
+flask-cors==5.0.0
+joblib==1.4.2
+numpy==2.1.3
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.6.1
+
+# Testing
+pytest==8.3.4
