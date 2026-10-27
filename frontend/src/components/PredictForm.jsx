@@ -32,10 +32,10 @@ export default function PredictForm() {
   const minScore = scores.length ? Math.min(...scores.map((s) => s.score)) : 0;
 
   return (
-    <div className="card">
-      <h3>Classify a complaint</h3>
+    <div id="predict" className="card">
+      <h3>Describe the concern</h3>
       <p className="subtitle">
-        Classifies the complaint with a fast calibrated model and flags uncertain results for review.
+        Include what changed and when you notice it. A few clear sentences work best.
       </p>
       <form onSubmit={onSubmit}>
         <label className="field">
@@ -66,20 +66,15 @@ export default function PredictForm() {
 
       {result && (
         <div className="prediction">
-          <h4>Prediction</h4>
+          <h4>Suggested category: {result.issue_category}</h4>
           {result.needs_review && <div className="banner warn">Low confidence. Please review this category manually.</div>}
           <div className="row">
-            <span className="badge">Issue: {result.issue_category}</span>
-            <span className="badge">{result.cluster_label}</span>
+            <span className="badge">{result.confidence == null ? "Confidence unavailable" : `${(result.confidence * 100).toFixed(1)}% model confidence`}</span>
           </div>
-
-          <p className="kpi-foot" style={{ marginTop: 10 }}>
-            Cleaned text: <em>{result.cleaned_text}</em>
-          </p>
 
           {result.probabilities ? (
             <>
-            <p className="kpi-foot">{result.probability_note} Path: {result.classification_path}.</p>
+            <p className="kpi-foot">How the model weighs each category. These confidence scores come from synthetic training data.</p>
             <div className="score-list">
               {Object.entries(result.probabilities).map(([label, value]) => (
                 <div className="score-row" key={label}>

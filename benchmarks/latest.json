@@ -81,7 +81,7 @@
       ]
     }
   },
-  "classification_selected": "domain_logistic",
+  "classification_selected": "domain_word_logistic",
   "classification": {
     "accuracy": 0.8948412698412699,
     "macro_f1": 0.7445026178010471,
@@ -175,7 +175,7 @@
       "Thermal Issue"
     ],
     "n": 504,
-    "log_loss": 0.20407430304880264,
+    "log_loss": 0.22421756688422909,
     "fast_path_share": 0.7579365079365079,
     "review_share": 0.24206349206349206,
     "fast_only": {
@@ -367,13 +367,13 @@
       "n": 504
     },
     "latency": {
-      "median_ms": 0.33104199974332005,
-      "p95_ms": 0.6633794968365692,
+      "median_ms": 0.3891039959853515,
+      "p95_ms": 2.769312199234264,
       "repeats": 100
     },
     "batch_100_latency": {
-      "median_ms": 1.725520494801458,
-      "p95_ms": 1.848856253491249,
+      "median_ms": 2.3108954992494546,
+      "p95_ms": 2.5747708459675778,
       "repeats": 20
     }
   },
@@ -947,8 +947,8 @@
     "fit_rows": 1600,
     "calibration_rows": 400,
     "latency": {
-      "median_ms": 0.39154149999376386,
-      "p95_ms": 0.4255503001331817,
+      "median_ms": 0.4787500001839362,
+      "p95_ms": 1.2206952073029242,
       "repeats": 100
     }
   },
@@ -3461,7 +3461,7 @@
     ]
   },
   "artifact_sha256": {
-    "final_classifier.joblib": "8dfca659cef0a422dff7c220f2893be0d6942ef165b35bfcaa85782e58d8fd8d",
+    "final_classifier.joblib": "17e33000159df7f39ccbaecd0be1d03089024c9aa1b8d57fa1516702bd2413f9",
     "degradation_regressor.joblib": "5ddf7164d1d3ad161b5fa7cbefbf534ee272ea7f1e9e44f7b7b50e493c9b4b07"
   }
 }

@@ -24,5 +24,16 @@ RMSE in degradation percentage points. R² is not classification accuracy.
 Latency is warm, sequential, local, single-record timing with one numerical
 thread, excluding HTTP and cold-start model loading.
 
+The initial row-weighted group split in checkpoint 1 omitted a class. The
+corrected `template_folds` helper stratifies unique families and guarantees one
+family per category in every fold. `baseline.json` records that corrected
+504-row holdout. The first split's 20.2% score must not be quoted as the final
+baseline. The primary comparison is all-family OOF in `validation.json`.
+
+`latest.json` retains the development holdout and selection experiments.
+`exploratory_generic.json` records the unsuccessful generic-text-only run.
+Features were developed using this corpus. Neither the development holdout nor
+post-selection OOF validation is an independent final or real-world test.
+
 Run baseline once from the starting artifacts: `python -m ml.baseline`.
 Use Git's starting commit to recover original artifacts if rerunning later.

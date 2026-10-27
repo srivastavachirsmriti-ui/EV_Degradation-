@@ -3,6 +3,7 @@
 This is an internal synthetic development benchmark, not an independent test.
 """
 import json
+import hashlib
 import sys
 from pathlib import Path
 
@@ -26,6 +27,7 @@ def main():
     text, y, groups = df.clean_text.to_numpy(), df.issue_label.to_numpy(), template_groups(df).to_numpy()
     stored = joblib.load(ROOT / "final_classifier.joblib")
     candidate = clone(stored["classifier"].estimator)
+    fast_candidate = clone(stored["fast_classifier"].estimator)
     baseline = make_pipeline(TfidfVectorizer(max_features=10000, min_df=2, ngram_range=(1, 2)),
                              SGDClassifier(class_weight="balanced", max_iter=4, random_state=42, tol=None))
     predicted = np.empty(len(y), dtype=object)
@@ -35,7 +37,13 @@ def main():
         inner = list(template_folds(y[train], groups[train], 4))
         model = CalibratedClassifierCV(clone(candidate), method="sigmoid", cv=inner, ensemble=False)
         model.fit(text[train], y[train])
-        predicted[test] = model.predict(text[test])
+        fast = CalibratedClassifierCV(clone(fast_candidate), method="sigmoid", cv=inner, ensemble=False)
+        fast.fit(text[train], y[train])
+        probabilities = fast.predict_proba(text[test])
+        fallback = probabilities.max(axis=1) < stored["fast_threshold"]
+        if fallback.any():
+            probabilities[fallback] = model.predict_proba(text[test][fallback])
+        predicted[test] = fast.classes_[probabilities.argmax(axis=1)]
         old_predicted[test] = clone(baseline).fit(text[train], y[train]).predict(text[test])
         folds.append({"fold": i + 1, "n": len(test),
                       "current": classification_metrics(y[test], predicted[test], sorted(set(y))),
@@ -65,6 +73,8 @@ def main():
     timings["current_cached_classify_and_cluster"] = latency_ms(lambda v: service.predict(v[0]), text[:100])
     timings["batch_100"] = latency_ms(lambda _: service.predict_many(text[:100], False), text, 30)
     result = {"scope": "Post-selection internal synthetic development validation. 5 outer folds hold one family per category; sigmoid calibration uses 4 inner family folds. Feature design has used this corpus, so this is not an independent external test.",
+              "dataset_sha256": hashlib.sha256((ROOT / "dashboard_data.csv").read_bytes()).hexdigest(),
+              "classifier_sha256": hashlib.sha256((ROOT / "final_classifier.joblib").read_bytes()).hexdigest(),
               "baseline_oof": old_oof, "current_oof": oof, "folds": folds,
               "family_bootstrap_accuracy_95_interval": np.quantile(boot, [.025, .975]).tolist(),
               "timings": timings}

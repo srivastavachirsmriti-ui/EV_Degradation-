@@ -6,31 +6,31 @@ syn_0005,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0006,Range/Performance,Range/Performance,0.9969672386986801
 syn_0013,Charging Issue,Charging Issue,0.9939025119993942
 syn_0015,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0016,Other,Thermal Issue,0.5489255832761187
+syn_0016,Other,Thermal Issue,0.5498101525218888
 syn_0017,Charging Issue,Charging Issue,0.9939025119993942
 syn_0019,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0022,Range/Performance,Range/Performance,0.9969672386986801
-syn_0028,Other,Thermal Issue,0.5489255832761187
+syn_0028,Other,Thermal Issue,0.547079553371013
 syn_0031,Range/Performance,Range/Performance,0.9969672386986801
 syn_0034,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0035,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0036,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0036,Thermal Issue,Thermal Issue,0.5095066304313809
 syn_0039,Charging Issue,Charging Issue,0.9939025119993942
 syn_0047,Range/Performance,Range/Performance,0.9969672386986801
 syn_0048,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0053,Other,Thermal Issue,0.5489255832761187
+syn_0053,Other,Thermal Issue,0.5443956332273577
 syn_0055,Range/Performance,Range/Performance,0.9969672386986801
-syn_0059,Other,Thermal Issue,0.5489255832761187
+syn_0059,Other,Thermal Issue,0.5471894033867382
 syn_0062,Charging Issue,Charging Issue,0.9939025119993942
 syn_0068,Charging Issue,Charging Issue,0.9939025119993942
 syn_0069,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0071,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0071,Thermal Issue,Thermal Issue,0.5095176917737692
 syn_0073,Charging Issue,Charging Issue,0.9939025119993942
-syn_0079,Other,Thermal Issue,0.5489255832761187
+syn_0079,Other,Thermal Issue,0.5464431538206116
 syn_0081,Range/Performance,Range/Performance,0.9969672386986801
 syn_0082,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0086,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0088,Other,Thermal Issue,0.5489255832761187
+syn_0088,Other,Thermal Issue,0.548756845236351
 syn_0090,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0096,Charging Issue,Charging Issue,0.9939025119993942
 syn_0097,Range/Performance,Range/Performance,0.9969672386986801
@@ -38,14 +38,14 @@ syn_0098,Range/Performance,Range/Performance,0.9969672386986801
 syn_0103,Range/Performance,Range/Performance,0.9969672386986801
 syn_0116,Charging Issue,Charging Issue,0.9939025119993942
 syn_0117,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0119,Other,Thermal Issue,0.5489255832761187
+syn_0119,Other,Thermal Issue,0.5471035087806916
 syn_0132,Range/Performance,Range/Performance,0.9969672386986801
 syn_0142,Charging Issue,Charging Issue,0.9939025119993942
-syn_0143,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0144,Other,Thermal Issue,0.5489255832761187
+syn_0143,Thermal Issue,Thermal Issue,0.5095181484155998
+syn_0144,Other,Thermal Issue,0.5454645863991581
 syn_0169,Range/Performance,Range/Performance,0.9969672386986801
 syn_0171,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0175,Other,Thermal Issue,0.5489255832761187
+syn_0175,Other,Thermal Issue,0.5458109530341042
 syn_0176,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0179,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0188,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -55,40 +55,40 @@ syn_0208,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0210,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0212,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0214,Range/Performance,Range/Performance,0.9969672386986801
-syn_0219,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0219,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_0225,Charging Issue,Charging Issue,0.9939025119993942
 syn_0229,Range/Performance,Range/Performance,0.9969672386986801
-syn_0231,Other,Thermal Issue,0.5489255832761187
+syn_0231,Other,Thermal Issue,0.5498101525218888
 syn_0238,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0241,Charging Issue,Charging Issue,0.9939025119993942
 syn_0247,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0248,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0250,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0254,Other,Thermal Issue,0.5489255832761187
-syn_0259,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0254,Other,Thermal Issue,0.547079553371013
+syn_0259,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_0260,Charging Issue,Charging Issue,0.9939025119993942
 syn_0266,Range/Performance,Range/Performance,0.9969672386986801
-syn_0268,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0268,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_0270,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0272,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0281,Other,Thermal Issue,0.5489255832761187
+syn_0281,Other,Thermal Issue,0.5471035087806916
 syn_0282,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0294,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0294,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_0299,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0302,Other,Thermal Issue,0.5489255832761187
-syn_0310,Other,Thermal Issue,0.5489255832761187
+syn_0302,Other,Thermal Issue,0.5443956332273577
+syn_0310,Other,Thermal Issue,0.5466365423604159
 syn_0315,Charging Issue,Charging Issue,0.9939025119993942
 syn_0318,Charging Issue,Charging Issue,0.9939025119993942
 syn_0329,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0340,Charging Issue,Charging Issue,0.9939025119993942
 syn_0345,Charging Issue,Charging Issue,0.9939025119993942
-syn_0352,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0356,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0352,Thermal Issue,Thermal Issue,0.5095181484155998
+syn_0356,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_0367,Range/Performance,Range/Performance,0.9969672386986801
-syn_0381,Other,Thermal Issue,0.5489255832761187
+syn_0381,Other,Thermal Issue,0.5454645863991581
 syn_0386,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0390,Other,Thermal Issue,0.5489255832761187
-syn_0394,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0390,Other,Thermal Issue,0.5466365423604159
+syn_0394,Thermal Issue,Thermal Issue,0.5095100620034494
 syn_0396,Range/Performance,Range/Performance,0.9969672386986801
 syn_0400,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0408,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -97,27 +97,27 @@ syn_0411,Charging Issue,Charging Issue,0.9939025119993942
 syn_0430,Range/Performance,Range/Performance,0.9969672386986801
 syn_0431,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0432,Charging Issue,Charging Issue,0.9939025119993942
-syn_0435,Other,Thermal Issue,0.5489255832761187
-syn_0443,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0462,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0482,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0484,Other,Thermal Issue,0.5489255832761187
+syn_0435,Other,Thermal Issue,0.5466365423604159
+syn_0443,Thermal Issue,Thermal Issue,0.5095181484155998
+syn_0462,Thermal Issue,Thermal Issue,0.509487329478841
+syn_0482,Thermal Issue,Thermal Issue,0.5094953227943707
+syn_0484,Other,Thermal Issue,0.5491791858986633
 syn_0491,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0495,Range/Performance,Range/Performance,0.9969672386986801
 syn_0507,Range/Performance,Range/Performance,0.9969672386986801
 syn_0514,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0516,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0527,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0516,Thermal Issue,Thermal Issue,0.509500434777272
+syn_0527,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_0537,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0539,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0547,Range/Performance,Range/Performance,0.9969672386986801
 syn_0549,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0556,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0558,Charging Issue,Charging Issue,0.9939025119993942
-syn_0559,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0559,Thermal Issue,Thermal Issue,0.5095206062980986
 syn_0572,Range/Performance,Range/Performance,0.9969672386986801
 syn_0573,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0575,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0575,Thermal Issue,Thermal Issue,0.5095052427919927
 syn_0585,Range/Performance,Range/Performance,0.9969672386986801
 syn_0586,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0589,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -125,10 +125,10 @@ syn_0590,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0592,Range/Performance,Range/Performance,0.9969672386986801
 syn_0597,Range/Performance,Range/Performance,0.9969672386986801
 syn_0601,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0607,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0607,Thermal Issue,Thermal Issue,0.5094887945381182
 syn_0611,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0619,Charging Issue,Charging Issue,0.9939025119993942
-syn_0624,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0624,Thermal Issue,Thermal Issue,0.509487329478841
 syn_0625,Range/Performance,Range/Performance,0.9969672386986801
 syn_0627,Range/Performance,Range/Performance,0.9969672386986801
 syn_0629,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -139,29 +139,29 @@ syn_0651,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0653,Charging Issue,Charging Issue,0.9939025119993942
 syn_0654,Range/Performance,Range/Performance,0.9969672386986801
 syn_0657,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0678,Other,Thermal Issue,0.5489255832761187
+syn_0678,Other,Thermal Issue,0.5443956332273577
 syn_0693,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0700,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0701,Other,Thermal Issue,0.5489255832761187
+syn_0701,Other,Thermal Issue,0.5443956332273577
 syn_0704,Charging Issue,Charging Issue,0.9939025119993942
 syn_0706,Charging Issue,Charging Issue,0.9939025119993942
 syn_0716,Range/Performance,Range/Performance,0.9969672386986801
 syn_0721,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0729,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0729,Thermal Issue,Thermal Issue,0.509487329478841
 syn_0730,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0733,Charging Issue,Charging Issue,0.9939025119993942
-syn_0734,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0734,Thermal Issue,Thermal Issue,0.509500434777272
 syn_0738,Range/Performance,Range/Performance,0.9969672386986801
 syn_0741,Charging Issue,Charging Issue,0.9939025119993942
 syn_0747,Charging Issue,Charging Issue,0.9939025119993942
 syn_0748,Range/Performance,Range/Performance,0.9969672386986801
 syn_0749,Charging Issue,Charging Issue,0.9939025119993942
-syn_0750,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0750,Thermal Issue,Thermal Issue,0.5095176917737692
 syn_0758,Range/Performance,Range/Performance,0.9969672386986801
 syn_0760,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0772,Charging Issue,Charging Issue,0.9939025119993942
 syn_0773,Range/Performance,Range/Performance,0.9969672386986801
-syn_0786,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0786,Thermal Issue,Thermal Issue,0.509500434777272
 syn_0793,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0794,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0795,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -169,34 +169,34 @@ syn_0806,Range/Performance,Range/Performance,0.9969672386986801
 syn_0808,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0811,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0812,Range/Performance,Range/Performance,0.9969672386986801
-syn_0816,Other,Thermal Issue,0.5489255832761187
-syn_0820,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0816,Other,Thermal Issue,0.5471894033867382
+syn_0820,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_0825,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0828,Range/Performance,Range/Performance,0.9969672386986801
 syn_0829,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0836,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0836,Thermal Issue,Thermal Issue,0.5095181484155998
 syn_0837,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0847,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0847,Thermal Issue,Thermal Issue,0.5095052427919927
 syn_0849,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0857,Other,Thermal Issue,0.5489255832761187
-syn_0861,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0857,Other,Thermal Issue,0.5466365423604159
+syn_0861,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_0865,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0875,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0879,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0879,Thermal Issue,Thermal Issue,0.5095376859477809
 syn_0880,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0881,Other,Thermal Issue,0.5489255832761187
+syn_0881,Other,Thermal Issue,0.547079553371013
 syn_0886,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0891,Charging Issue,Charging Issue,0.9939025119993942
 syn_0892,Charging Issue,Charging Issue,0.9939025119993942
 syn_0893,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0900,Charging Issue,Charging Issue,0.9939025119993942
 syn_0901,Charging Issue,Charging Issue,0.9939025119993942
-syn_0911,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_0913,Other,Thermal Issue,0.5489255832761187
+syn_0911,Thermal Issue,Thermal Issue,0.5095206062980986
+syn_0913,Other,Thermal Issue,0.548756845236351
 syn_0917,Charging Issue,Charging Issue,0.9939025119993942
 syn_0919,Range/Performance,Range/Performance,0.9969672386986801
 syn_0939,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_0949,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_0949,Thermal Issue,Thermal Issue,0.5095052427919927
 syn_0950,Charging Issue,Charging Issue,0.9939025119993942
 syn_0972,Charging Issue,Charging Issue,0.9939025119993942
 syn_0976,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -206,27 +206,27 @@ syn_0994,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_0998,Charging Issue,Charging Issue,0.9939025119993942
 syn_1009,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1012,Charging Issue,Charging Issue,0.9939025119993942
-syn_1025,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1025,Thermal Issue,Thermal Issue,0.5095173301005679
 syn_1046,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1048,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1051,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1048,Thermal Issue,Thermal Issue,0.5094887945381182
+syn_1051,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1055,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1058,Range/Performance,Range/Performance,0.9969672386986801
 syn_1064,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1069,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1070,Charging Issue,Charging Issue,0.9939025119993942
-syn_1073,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1083,Other,Thermal Issue,0.5489255832761187
+syn_1073,Thermal Issue,Thermal Issue,0.5094953227943707
+syn_1083,Other,Thermal Issue,0.548756845236351
 syn_1090,Range/Performance,Range/Performance,0.9969672386986801
 syn_1091,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1092,Other,Thermal Issue,0.5489255832761187
+syn_1092,Other,Thermal Issue,0.5471894033867382
 syn_1099,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1113,Range/Performance,Range/Performance,0.9969672386986801
 syn_1119,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1126,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1126,Thermal Issue,Thermal Issue,0.509487329478841
 syn_1130,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1132,Charging Issue,Charging Issue,0.9939025119993942
-syn_1133,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1133,Thermal Issue,Thermal Issue,0.5095206062980986
 syn_1135,Charging Issue,Charging Issue,0.9939025119993942
 syn_1137,Range/Performance,Range/Performance,0.9969672386986801
 syn_1141,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -234,44 +234,44 @@ syn_1144,Charging Issue,Charging Issue,0.9939025119993942
 syn_1157,Range/Performance,Range/Performance,0.9969672386986801
 syn_1166,Charging Issue,Charging Issue,0.9939025119993942
 syn_1167,Range/Performance,Range/Performance,0.9969672386986801
-syn_1170,Other,Thermal Issue,0.5489255832761187
+syn_1170,Other,Thermal Issue,0.5453003627330628
 syn_1178,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1181,Charging Issue,Charging Issue,0.9939025119993942
-syn_1182,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1182,Thermal Issue,Thermal Issue,0.5095173301005679
 syn_1184,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1187,Charging Issue,Charging Issue,0.9939025119993942
 syn_1191,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1193,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1195,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1193,Thermal Issue,Thermal Issue,0.5095181484155998
+syn_1195,Thermal Issue,Thermal Issue,0.5095100620034494
 syn_1199,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1209,Range/Performance,Range/Performance,0.9969672386986801
 syn_1217,Range/Performance,Range/Performance,0.9969672386986801
 syn_1219,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1223,Other,Thermal Issue,0.5489255832761187
+syn_1223,Other,Thermal Issue,0.5454645863991581
 syn_1233,Charging Issue,Charging Issue,0.9939025119993942
 syn_1234,Range/Performance,Range/Performance,0.9969672386986801
 syn_1263,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1264,Other,Thermal Issue,0.5489255832761187
+syn_1264,Other,Thermal Issue,0.548756845236351
 syn_1266,Charging Issue,Charging Issue,0.9939025119993942
-syn_1267,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1267,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1270,Charging Issue,Charging Issue,0.9939025119993942
 syn_1274,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1280,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1286,Charging Issue,Charging Issue,0.9939025119993942
 syn_1288,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1300,Other,Thermal Issue,0.5489255832761187
+syn_1300,Other,Thermal Issue,0.5453003627330628
 syn_1302,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1316,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1316,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1320,Charging Issue,Charging Issue,0.9939025119993942
 syn_1322,Range/Performance,Range/Performance,0.9969672386986801
 syn_1328,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1337,Other,Thermal Issue,0.5489255832761187
+syn_1337,Other,Thermal Issue,0.5458109530341042
 syn_1340,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1344,Range/Performance,Range/Performance,0.9969672386986801
-syn_1358,Other,Thermal Issue,0.5489255832761187
+syn_1358,Other,Thermal Issue,0.5453003627330628
 syn_1359,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1365,Range/Performance,Range/Performance,0.9969672386986801
-syn_1366,Other,Thermal Issue,0.5489255832761187
+syn_1366,Other,Thermal Issue,0.5491791858986633
 syn_1370,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1376,Charging Issue,Charging Issue,0.9939025119993942
 syn_1380,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -287,7 +287,7 @@ syn_1412,Range/Performance,Range/Performance,0.9969672386986801
 syn_1414,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1417,Charging Issue,Charging Issue,0.9939025119993942
 syn_1419,Range/Performance,Range/Performance,0.9969672386986801
-syn_1422,Other,Thermal Issue,0.5489255832761187
+syn_1422,Other,Thermal Issue,0.5444278406097316
 syn_1426,Range/Performance,Range/Performance,0.9969672386986801
 syn_1428,Range/Performance,Range/Performance,0.9969672386986801
 syn_1445,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -299,33 +299,33 @@ syn_1465,Range/Performance,Range/Performance,0.9969672386986801
 syn_1475,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1482,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1485,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1487,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1487,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1494,Range/Performance,Range/Performance,0.9969672386986801
 syn_1497,Range/Performance,Range/Performance,0.9969672386986801
 syn_1508,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1511,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1526,Charging Issue,Charging Issue,0.9939025119993942
-syn_1534,Other,Thermal Issue,0.5489255832761187
+syn_1534,Other,Thermal Issue,0.547079553371013
 syn_1541,Range/Performance,Range/Performance,0.9969672386986801
-syn_1558,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1558,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1564,Charging Issue,Charging Issue,0.9939025119993942
 syn_1566,Range/Performance,Range/Performance,0.9969672386986801
 syn_1592,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1594,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1604,Range/Performance,Range/Performance,0.9969672386986801
 syn_1605,Charging Issue,Charging Issue,0.9939025119993942
-syn_1615,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1615,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1617,Range/Performance,Range/Performance,0.9969672386986801
 syn_1624,Range/Performance,Range/Performance,0.9969672386986801
-syn_1625,Other,Thermal Issue,0.5489255832761187
+syn_1625,Other,Thermal Issue,0.5444278406097316
 syn_1630,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1632,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1632,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_1634,Charging Issue,Charging Issue,0.9939025119993942
-syn_1636,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1638,Other,Thermal Issue,0.5489255832761187
+syn_1636,Thermal Issue,Thermal Issue,0.5094887945381182
+syn_1638,Other,Thermal Issue,0.548756845236351
 syn_1642,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1645,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1647,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1647,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_1652,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1653,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1657,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -335,25 +335,25 @@ syn_1666,Charging Issue,Charging Issue,0.9939025119993942
 syn_1673,Charging Issue,Charging Issue,0.9939025119993942
 syn_1674,Range/Performance,Range/Performance,0.9969672386986801
 syn_1676,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1678,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1678,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_1683,Range/Performance,Range/Performance,0.9969672386986801
 syn_1692,Charging Issue,Charging Issue,0.9939025119993942
-syn_1696,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1696,Thermal Issue,Thermal Issue,0.5095176917737692
 syn_1698,Charging Issue,Charging Issue,0.9939025119993942
-syn_1701,Other,Thermal Issue,0.5489255832761187
+syn_1701,Other,Thermal Issue,0.5466365423604159
 syn_1709,Charging Issue,Charging Issue,0.9939025119993942
-syn_1726,Other,Thermal Issue,0.5489255832761187
+syn_1726,Other,Thermal Issue,0.5464431538206116
 syn_1732,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1734,Charging Issue,Charging Issue,0.9939025119993942
-syn_1740,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1746,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1748,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1740,Thermal Issue,Thermal Issue,0.509500434777272
+syn_1746,Thermal Issue,Thermal Issue,0.5095066304313809
+syn_1748,Thermal Issue,Thermal Issue,0.5095036228618446
 syn_1754,Charging Issue,Charging Issue,0.9939025119993942
 syn_1757,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1767,Range/Performance,Range/Performance,0.9969672386986801
 syn_1768,Range/Performance,Range/Performance,0.9969672386986801
 syn_1773,Charging Issue,Charging Issue,0.9939025119993942
-syn_1777,Other,Thermal Issue,0.5489255832761187
+syn_1777,Other,Thermal Issue,0.5464431538206116
 syn_1782,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1784,Charging Issue,Charging Issue,0.9939025119993942
 syn_1791,Range/Performance,Range/Performance,0.9969672386986801
@@ -369,25 +369,25 @@ syn_1836,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1845,Charging Issue,Charging Issue,0.9939025119993942
 syn_1857,Range/Performance,Range/Performance,0.9969672386986801
 syn_1859,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1862,Other,Thermal Issue,0.5489255832761187
-syn_1863,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1872,Other,Thermal Issue,0.5489255832761187
-syn_1873,Other,Thermal Issue,0.5489255832761187
+syn_1862,Other,Thermal Issue,0.5471035087806916
+syn_1863,Thermal Issue,Thermal Issue,0.5095376859477809
+syn_1872,Other,Thermal Issue,0.5458109530341042
+syn_1873,Other,Thermal Issue,0.5464431538206116
 syn_1874,Range/Performance,Range/Performance,0.9969672386986801
-syn_1876,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1876,Thermal Issue,Thermal Issue,0.5095052427919927
 syn_1881,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1887,Range/Performance,Range/Performance,0.9969672386986801
 syn_1893,Charging Issue,Charging Issue,0.9939025119993942
 syn_1895,Range/Performance,Range/Performance,0.9969672386986801
-syn_1899,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1899,Thermal Issue,Thermal Issue,0.5095173301005679
 syn_1901,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1902,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1909,Range/Performance,Range/Performance,0.9969672386986801
 syn_1919,Charging Issue,Charging Issue,0.9939025119993942
 syn_1927,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1928,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_1936,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_1941,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_1936,Thermal Issue,Thermal Issue,0.5094953227943707
+syn_1941,Thermal Issue,Thermal Issue,0.5094953227943707
 syn_1944,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1952,Range/Performance,Range/Performance,0.9969672386986801
 syn_1957,Charging Issue,Charging Issue,0.9939025119993942
@@ -400,24 +400,24 @@ syn_1988,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_1994,Range/Performance,Range/Performance,0.9969672386986801
 syn_1997,Range/Performance,Range/Performance,0.9969672386986801
 syn_1999,Charging Issue,Charging Issue,0.9939025119993942
-syn_2001,Other,Thermal Issue,0.5489255832761187
+syn_2001,Other,Thermal Issue,0.547079553371013
 syn_2002,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2003,Range/Performance,Range/Performance,0.9969672386986801
 syn_2007,Charging Issue,Charging Issue,0.9939025119993942
-syn_2012,Other,Thermal Issue,0.5489255832761187
+syn_2012,Other,Thermal Issue,0.5454645863991581
 syn_2015,Range/Performance,Range/Performance,0.9969672386986801
 syn_2016,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2020,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2020,Thermal Issue,Thermal Issue,0.5095176917737692
 syn_2023,Range/Performance,Range/Performance,0.9969672386986801
 syn_2031,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2033,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2033,Thermal Issue,Thermal Issue,0.5094887945381182
 syn_2035,Charging Issue,Charging Issue,0.9939025119993942
 syn_2037,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2038,Other,Thermal Issue,0.5489255832761187
+syn_2038,Other,Thermal Issue,0.5443956332273577
 syn_2044,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2050,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2052,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2066,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2066,Thermal Issue,Thermal Issue,0.5095100620034494
 syn_2070,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2074,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2075,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -427,11 +427,11 @@ syn_2084,Range/Performance,Range/Performance,0.9969672386986801
 syn_2095,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2096,Range/Performance,Range/Performance,0.9969672386986801
 syn_2100,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2112,Other,Thermal Issue,0.5489255832761187
+syn_2112,Other,Thermal Issue,0.5458109530341042
 syn_2125,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2126,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2129,Other,Thermal Issue,0.5489255832761187
-syn_2130,Other,Thermal Issue,0.5489255832761187
+syn_2129,Other,Thermal Issue,0.5471894033867382
+syn_2130,Other,Thermal Issue,0.5464431538206116
 syn_2131,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2136,Range/Performance,Range/Performance,0.9969672386986801
 syn_2137,Capacity Degradation,Capacity Degradation,0.9974487774425568
@@ -443,32 +443,32 @@ syn_2162,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2165,Range/Performance,Range/Performance,0.9969672386986801
 syn_2166,Charging Issue,Charging Issue,0.9939025119993942
 syn_2172,Charging Issue,Charging Issue,0.9939025119993942
-syn_2174,Other,Thermal Issue,0.5489255832761187
+syn_2174,Other,Thermal Issue,0.5466365423604159
 syn_2177,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2189,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2192,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2195,Charging Issue,Charging Issue,0.9939025119993942
 syn_2197,Range/Performance,Range/Performance,0.9969672386986801
-syn_2201,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2201,Thermal Issue,Thermal Issue,0.5095206062980986
 syn_2203,Charging Issue,Charging Issue,0.9939025119993942
-syn_2204,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2204,Thermal Issue,Thermal Issue,0.5094887945381182
 syn_2208,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2211,Range/Performance,Range/Performance,0.9969672386986801
 syn_2253,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2256,Charging Issue,Charging Issue,0.9939025119993942
 syn_2258,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2265,Charging Issue,Charging Issue,0.9939025119993942
-syn_2268,Other,Thermal Issue,0.5489255832761187
+syn_2268,Other,Thermal Issue,0.5458109530341042
 syn_2275,Range/Performance,Range/Performance,0.9969672386986801
-syn_2283,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2283,Thermal Issue,Thermal Issue,0.5095206062980986
 syn_2287,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2297,Charging Issue,Charging Issue,0.9939025119993942
 syn_2310,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2312,Charging Issue,Charging Issue,0.9939025119993942
 syn_2315,Charging Issue,Charging Issue,0.9939025119993942
-syn_2326,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_2333,Other,Thermal Issue,0.5489255832761187
-syn_2340,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2326,Thermal Issue,Thermal Issue,0.5095376859477809
+syn_2333,Other,Thermal Issue,0.5491791858986633
+syn_2340,Thermal Issue,Thermal Issue,0.5095206062980986
 syn_2342,Charging Issue,Charging Issue,0.9939025119993942
 syn_2344,Charging Issue,Charging Issue,0.9939025119993942
 syn_2347,Range/Performance,Range/Performance,0.9969672386986801
@@ -491,15 +491,15 @@ syn_2415,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2419,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2427,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2431,Range/Performance,Range/Performance,0.9969672386986801
-syn_2436,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2436,Thermal Issue,Thermal Issue,0.5095176917737692
 syn_2443,Charging Issue,Charging Issue,0.9939025119993942
 syn_2448,Charging Issue,Charging Issue,0.9939025119993942
-syn_2462,Thermal Issue,Thermal Issue,0.5090404201475884
-syn_2463,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2462,Thermal Issue,Thermal Issue,0.5095052427919927
+syn_2463,Thermal Issue,Thermal Issue,0.509500434777272
 syn_2468,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2473,Range/Performance,Range/Performance,0.9969672386986801
 syn_2476,Capacity Degradation,Capacity Degradation,0.9974487774425568
 syn_2479,Charging Issue,Charging Issue,0.9939025119993942
 syn_2485,Capacity Degradation,Capacity Degradation,0.9974487774425568
-syn_2494,Other,Thermal Issue,0.5489255832761187
-syn_2498,Thermal Issue,Thermal Issue,0.5090404201475884
+syn_2494,Other,Thermal Issue,0.5471035087806916
+syn_2498,Thermal Issue,Thermal Issue,0.5095052427919927

@@ -75,6 +75,10 @@ def main():
         selection[name] = {"mean_macro_f1": float(scores.mean()), "folds": scores.tolist()}
         print(name, selection[name], flush=True)
     best = max(selection, key=lambda name: selection[name]["mean_macro_f1"])
+    # Equal validation scores permit a richer fallback while the compact
+    # domain-only estimator handles confident records in the fast stage.
+    if selection["domain_word_logistic"]["mean_macro_f1"] >= selection[best]["mean_macro_f1"] - 1e-12:
+        best = "domain_word_logistic"
     # Group-disjoint OOF probabilities, followed by one estimator fit on all dev data.
     slow = CalibratedClassifierCV(clone(candidates[best]), method="sigmoid", cv=cv, ensemble=False)
     slow.fit(text[train], y[train])

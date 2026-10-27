@@ -8,8 +8,7 @@ GET  /api/analytics   dashboard statistics derived from the dataset
 GET  /api/complaints  searchable/filterable complaint table (paginated)
 GET  /api/filters     distinct filter values for the frontend
 
-The API only *reads* the existing models and CSV; it never retrains or
-overwrites them.
+The API reads versioned artifacts; offline ml scripts perform training.
 """
 
 from __future__ import annotations

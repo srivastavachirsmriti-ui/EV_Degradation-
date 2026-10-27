@@ -1,5 +1,7 @@
 {
   "scope": "Post-selection internal synthetic development validation. 5 outer folds hold one family per category; sigmoid calibration uses 4 inner family folds. Feature design has used this corpus, so this is not an independent external test.",
+  "dataset_sha256": "f98dd3ac7163d52444fdc3162644f090c006a8103f78d71f11a7b3c0a5ac8fe9",
+  "classifier_sha256": "17e33000159df7f39ccbaecd0be1d03089024c9aa1b8d57fa1516702bd2413f9",
   "baseline_oof": {
     "accuracy": 0.5188,
     "macro_f1": 0.4996738860323736,
@@ -1156,23 +1158,23 @@
   ],
   "timings": {
     "current_uncached_classify_and_cluster": {
-      "median_ms": 0.5909169994993135,
-      "p95_ms": 0.9261607410735451,
+      "median_ms": 0.5945619923295453,
+      "p95_ms": 1.2672145967371762,
       "repeats": 100
     },
     "current_classify_only": {
-      "median_ms": 0.39368749276036397,
-      "p95_ms": 0.7146208474296145,
+      "median_ms": 0.39891699998406693,
+      "p95_ms": 1.086565999139566,
       "repeats": 100
     },
     "current_cached_classify_and_cluster": {
-      "median_ms": 0.009750001481734216,
-      "p95_ms": 0.012338149826973677,
+      "median_ms": 0.010395997378509492,
+      "p95_ms": 0.01342531104455702,
       "repeats": 100
     },
     "batch_100": {
-      "median_ms": 3.490875009447336,
-      "p95_ms": 4.332883150345879,
+      "median_ms": 5.972500504867639,
+      "p95_ms": 11.673787804465967,
       "repeats": 30
     }
   }

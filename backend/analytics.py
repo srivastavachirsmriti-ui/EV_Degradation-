@@ -1,15 +1,4 @@
-"""Genuine dashboard statistics computed from the existing dataset.
-
-Everything here is derived at request time from ``dashboard_data.csv``. No
-values are hardcoded and no evaluation metrics are fabricated.
-
-Notes about the dataset:
-* ``data_origin`` is ``synthetic`` for every row, so these figures describe the
-  synthetic corpus only and must not be read as real-world performance.
-* There is no timestamp column, so the "time trend" is approximated with
-  ``vehicle_age_months`` buckets and labelled as such.
-* No held-out evaluation file exists, therefore ``evaluation`` is ``None``.
-"""
+"""Cached dashboard statistics and artifact-matched synthetic evaluation evidence."""
 
 from __future__ import annotations
 
@@ -130,12 +119,18 @@ def evaluation_payload():
         if not path.exists() or result["artifact_sha256"][name] != hashlib.sha256(path.read_bytes()).hexdigest():
             return None
     baseline = json.loads((PROJECT_ROOT / "benchmarks/baseline.json").read_text())
-    return {"note": result["note"], "classification": result["classification"],
+    validation_path = EVALUATION_PATH.parent / "validation.json"
+    validation = json.loads(validation_path.read_text()) if validation_path.exists() else {}
+    valid_oof = validation.get("classifier_sha256") == result["artifact_sha256"]["final_classifier.joblib"] and validation.get("dataset_sha256") == result["dataset_sha256"]
+    current = validation["current_oof"] if valid_oof else result["classification"]
+    original = validation["baseline_oof"] if valid_oof else baseline["reconstructed_sgd_group_test"]
+    return {"note": validation["scope"] if valid_oof else result["note"], "classification": current,
+            "development_holdout": result["classification"],
             "regression": result["regression"],
-            "baseline_classification": baseline["reconstructed_sgd_group_test"],
+            "baseline_classification": original,
             "baseline_regression": baseline["regression_reconstructed_rf"],
-            "metrics": {"classification_accuracy": result["classification"]["accuracy"],
-                        "classification_macro_f1": result["classification"]["macro_f1"],
+            "metrics": {"classification_accuracy": current["accuracy"],
+                        "classification_macro_f1": current["macro_f1"],
                         "regression_mae": result["regression"]["mae"], "regression_r2": result["regression"]["r2"]}}
 
 

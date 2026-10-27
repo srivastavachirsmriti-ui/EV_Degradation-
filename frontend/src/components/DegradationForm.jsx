@@ -5,7 +5,7 @@ const FIELDS = [
   ["vehicle_age_months", "Vehicle age (months)", 0, 360, 1, 48],
   ["total_charging_cycles", "Charging cycles", 0, 10000, 1, 600],
   ["avg_temperature_c", "Average temperature (°C)", -50, 85, 0.1, 28],
-  ["fast_charge_ratio", "Fast charge ratio (0 to 1)", 0, 1, 0.01, 0.3],
+  ["fast_charge_ratio", "Share of fast charging (0 to 1)", 0, 1, 0.01, 0.3],
   ["avg_discharge_rate_c", "Average discharge rate (C)", 0, 10, 0.01, 1.2],
 ];
 
@@ -21,8 +21,8 @@ export default function DegradationForm() {
     finally { setLoading(false); }
   }
   return <div className="card">
-    <h3>Estimate battery degradation</h3>
-    <p className="subtitle">A numerical estimate from five operating inputs, trained on synthetic records.</p>
+    <h3>Vehicle and charging details</h3>
+    <p className="subtitle">Use average values where possible. All five fields are required.</p>
     <form onSubmit={submit}>
       <div className="regression-fields">{FIELDS.map(([key, label, min, max, step]) =>
         <label className="field" key={key}>{label}<input type="number" required min={min} max={max} step={step}

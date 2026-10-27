@@ -77,10 +77,10 @@ export default function ComplaintTable({ categories = [], clusters = [] }) {
   const totalPages = Math.max(1, Math.ceil(data.total / PAGE_SIZE));
 
   return (
-    <div className="card chart-full">
+    <div id="records" className="card chart-full">
       <h3>Complaint explorer</h3>
       <p className="subtitle">
-        Search and filter the raw dataset served by GET /api/complaints
+        Find records by complaint, vehicle or category, and refine the results below.
       </p>
 
       <div className="row" style={{ marginBottom: 14 }}>

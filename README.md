@@ -1,211 +1,131 @@
 # EV Battery Degradation Complaint Mining
 
-A full-stack dashboard for exploring EV battery complaints and classifying new
-complaints with the **existing trained artifacts** in this repository.
+A college project that classifies synthetic EV complaints, explores text clusters,
+ and estimates battery degradation from operating inputs. The application includes
+ a React/Vite dashboard, Flask API, reproducible model selection, and versioned
+ evaluation evidence. All 2,500 records are synthetic; scores are internal
+ development benchmarks and do not establish real-vehicle performance.
 
-* **Backend** — Python **Flask** REST API (`backend/`)
-* **Frontend** — **React + Vite** dashboard (`frontend/`)
+## Run locally
 
-The backend loads the pre-trained models directly from the project root and reads
-the dataset at request time. **No model is retrained and no existing file is
-modified.**
-
----
-
-## Project structure
-
-```
-ev_dashboard_bundle/
-├── final_classifier.joblib            # existing (untouched) trained pipeline
-├── cluster_tfidf_vectorizer.joblib    # existing (untouched) TF-IDF vectorizer
-├── kmeans_model.joblib                # existing (untouched) K-Means model
-├── dashboard_data.csv                 # existing (untouched) dataset
-├── app.py                             # existing Streamlit prototype (untouched)
-├── requirements.txt                   # existing Streamlit deps (untouched)
-├── backend/
-│   ├── app.py                # Flask API entrypoint
-│   ├── config.py             # paths + CORS + server config (env-overridable)
-│   ├── text_cleaning.py      # reproduced training-time cleaning
-│   ├── model_service.py      # loads/serves the .joblib models
-│   ├── analytics.py          # stats computed from dashboard_data.csv
-│   ├── requirements.txt
-│   ├── conftest.py
-│   └── tests/test_api.py
-├── frontend/
-│   ├── index.html
-│   ├── package.json
-│   ├── vite.config.js        # dev proxy: /api -> http://127.0.0.1:5001
-│   └── src/
-│       ├── main.jsx
-│       ├── App.jsx
-│       ├── api.js
-│       ├── styles.css
-│       └── components/       # KPI cards, charts, table, predict form, …
-├── .gitignore
-└── README.md
-```
-
----
-
-## Prerequisites
-
-* **Python 3.12** (models were pickled with scikit-learn **1.6.1**)
-* **Node.js 18+** and npm
-
----
-
-## 1. Run the backend (Flask API)
-
-From the project root:
+Use **Python 3.12** and Node.js 18+.
 
 ```bash
-# create + activate a virtual environment
-python3 -m venv backend/.venv
-source backend/.venv/bin/activate        # Windows: backend\.venv\Scripts\activate
-
-# install dependencies (pins scikit-learn==1.6.1 to match the trained models)
+python3.12 -m venv .venv
+source .venv/bin/activate
 pip install -r backend/requirements.txt
-
-# start the API
 python backend/app.py
 ```
 
-The API runs at **http://127.0.0.1:5001**. Verify:
-
-```bash
-curl http://127.0.0.1:5001/api/health
-```
-
-### Backend environment overrides (optional)
-
-| Variable | Default | Purpose |
-| --- | --- | --- |
-| `EV_DATA_PATH` | `./dashboard_data.csv` | dataset location |
-| `EV_CLASSIFIER_PATH` | `./final_classifier.joblib` | classifier |
-| `EV_CLUSTER_VECTORIZER_PATH` | `./cluster_tfidf_vectorizer.joblib` | cluster TF-IDF |
-| `EV_KMEANS_PATH` | `./kmeans_model.joblib` | K-Means |
-| `EV_API_HOST` / `EV_API_PORT` | `127.0.0.1` / `5001` | bind address |
-| `EV_API_DEBUG` | `0` | Flask debug mode |
-| `EV_CORS_ORIGINS` | Vite localhost origins | comma-separated allowed origins |
-
----
-
-## 2. Run the frontend (React + Vite)
-
-In a **second terminal**:
+In another terminal:
 
 ```bash
 cd frontend
-npm install
+npm ci
 npm run dev
 ```
 
-Open **http://localhost:5173**. During development Vite proxies `/api` to
-`http://127.0.0.1:5001`, so both apps are reached from one origin.
+Open http://localhost:5173. The API binds to 127.0.0.1:5001. `npm run build`
+creates the frontend production build. The Vite development server proxies `/api`
+to Flask. Set `VITE_API_BASE` for a separately hosted frontend and configure
+`EV_CORS_ORIGINS` on the API. `EV_API_HOST`, `EV_API_PORT`, `EV_API_DEBUG`,
+`EV_DATA_PATH`, `EV_CLASSIFIER_PATH`, `EV_REGRESSOR_PATH`,
+`EV_CLUSTER_VECTORIZER_PATH`, `EV_KMEANS_PATH`, and `EV_EVALUATION_PATH`
+provide optional environment overrides. Restart after changing data or models:
+loaded models, dataset analytics, and cluster metadata are process-cached.
 
-For a production build:
+The legacy Streamlit app uses the same prediction service. Install
+`requirements.txt`, then run `streamlit run app.py`.
+
+## Models and validation
+
+The original TF-IDF/SGD classifier used only four optimization passes. A clone
+retrained on template-separated folds supplies a comparable baseline. Exact
+text duplicates and substitutions of vehicle names/numbers must not cross folds.
+There are only **25 template families**, five per category.
+
+`ml/train.py` compares eight text candidates using four development folds. It
+adds 14 explicit symptom/intent features and context interactions. A calibrated,
+compact logistic model handles high-confidence inputs. A richer domain + TF-IDF
+model handles the remaining inputs. Sigmoid calibration uses family-separated
+folds, not the final evaluation labels. Confidence is only meaningful within the
+synthetic domain. Unsupported wording and negation trigger manual-review flags.
+Clustering remains exploratory and retains the original K-Means artifacts.
+
+The final classifier retains the 504-row template holdout. That partition was
+reused during feature development and is therefore a **development holdout**,
+not an independent final test. `ml/validate.py` also evaluates all 25 families in
+five outer folds, with calibration in four inner folds. Feature design has seen
+this corpus, so even this score is internal post-selection validation. See
+`benchmarks/validation.json` for the primary full-corpus result and per-class
+scores. Do not present the original artifact's resubstitution score as accuracy.
+
+Regression compares Ridge, quadratic Ridge, Random Forest, Extra Trees and
+histogram gradient boosting. Only age, charging cycles, temperature, fast-charge
+ratio and discharge rate are inputs. `battery_health_pct + degradation_pct = 100`
+exactly, so using health would leak the target. Text, issue labels, severity and
+stored predictions are also excluded. The 500-row test partition matches the
+reconstructed mean/RF baselines. The fitted regressor uses 1,600 rows and reserves
+400 separate rows for a 90% split-conformal prediction interval. The API flags
+inputs outside fitted feature ranges. R² is variance explained, not accuracy.
+
+## Reproduce
 
 ```bash
-cd frontend
-npm run build      # outputs frontend/dist
-npm run preview    # serves the build on http://localhost:4173
+# Starting commit artifacts only; do not overwrite a frozen baseline casually.
+python -m ml.baseline
+# Uses the recorded baseline partition, fits models and writes artifacts/metrics.
+python -m ml.train
+# Runs full template OOF comparisons and warm inference timings.
+python -m ml.validate
+python -m pytest backend/tests -q
 ```
 
-When serving a production build from a different origin than the API, set
-`VITE_API_BASE` (see `frontend/.env.example`) and add that origin to
-`EV_CORS_ORIGINS`.
+To rerun the original baseline, recover `final_classifier.joblib` from starting
+commit `e69fa94` in a separate checkout. The currently deployed file is a model
+bundle dictionary, not the original pipeline. The API supports both formats.
 
----
+Machine-readable evidence stays versioned under `benchmarks/`: data/artifact
+SHA-256 hashes, model candidates and fold scores, row IDs, family splits,
+confusion matrices, regression predictions, and warm local timings. The failed
+generic-only experiment is retained as `exploratory_generic.json`. This makes
+improvements inspectable rather than relying on claims in a PDF. Metrics are
+hidden by the API if data/model hashes do not match.
 
-## Using it in VS Code
+## API
 
-1. Open the project folder (`File → Open Folder…`).
-2. Open two integrated terminals (`Terminal → Split Terminal`).
-3. **Terminal 1 — backend:** run the four backend commands above.
-4. **Terminal 2 — frontend:** `cd frontend && npm install && npm run dev`.
-5. Ctrl/Cmd-click the `http://localhost:5173` link Vite prints.
-
-Tip: the repo ignores `.vscode/*` except `extensions.json`. Recommended
-extensions: **Python**, **Pylance**, **ES7+ React snippets**, **Prettier**.
-
----
-
-## API reference
-
-| Method | Endpoint | Description |
+| Method | Endpoint | Behavior |
 | --- | --- | --- |
-| `GET` | `/api/health` | Service, model, and dataset status |
-| `POST` | `/api/predict` | Classify + cluster a new complaint |
-| `GET` | `/api/analytics` | KPIs + distributions computed from the CSV |
-| `GET` | `/api/complaints` | Searchable/filterable complaint table (paginated) |
-| `GET` | `/api/filters` | Distinct filter values for the UI |
-
-### `POST /api/predict`
-
-Request:
-
-```bash
-curl -X POST http://127.0.0.1:5001/api/predict \
-  -H "Content-Type: application/json" \
-  -d '{"text": "Fast charging on my Nissan Leaf is much slower than before."}'
-```
-
-Response (abridged):
+| GET | `/api/health` | Model/data status and runtime-version warnings |
+| POST | `/api/predict` | `{ "text": "...", "include_cluster": true }` |
+| POST | `/api/predict-batch` | `{ "texts": ["..."], "include_cluster": false }`, 1-100 records |
+| POST | `/api/predict-degradation` | Exactly the five numeric fields below |
+| GET | `/api/analytics` | Dataset distributions and matching evaluation evidence |
+| GET | `/api/complaints` | Text/category/severity/battery/cluster filters and pagination |
+| GET | `/api/filters` | Available filter values |
 
 ```json
 {
-  "cleaned_text": "fast charging on my nissan leaf is much slower than before.",
-  "issue_category": "Charging Issue",
-  "cluster_id": 0,
-  "cluster_label": "Cluster 0 – Charging Issue",
-  "supports_probabilities": false,
-  "probabilities": null,
-  "decision_scores": [{ "label": "Charging Issue", "score": 0.31 }],
-  "probability_note": "…uncalibrated decision-function margins, not probabilities."
+  "vehicle_age_months": 48,
+  "total_charging_cycles": 600,
+  "avg_temperature_c": 28,
+  "fast_charge_ratio": 0.3,
+  "avg_discharge_rate_c": 1.2
 }
 ```
 
-Errors return `{"error": true, "message": "...", "status": <code>}`.
+Prediction responses include probabilities, `confidence`, `needs_review`, the
+routing path, and an optional cluster. Batch calls transform arrays together.
+A bounded cache accelerates repeated single complaints without exposing mutable
+cached dictionaries. Inputs reject non-finite numbers, booleans as numbers,
+unreadable text, oversized bodies and target/extra fields. File artifacts must
+be trusted: joblib deserialization executes Python and is not an upload format.
 
----
+## Report and presentation
 
-## Tests
-
-```bash
-cd backend
-source .venv/bin/activate
-pytest -q
-```
-
-The suite covers `/api/health`, `/api/predict` (success + validation errors),
-`/api/analytics`, `/api/complaints`, `/api/filters`, 404 handling, and the
-reproduced cleaning function.
-
----
-
-## Important notes (please read)
-
-* **Synthetic data.** Every row has `data_origin = "synthetic"`. Figures describe
-  this corpus only and are **not** evidence of real-world accuracy.
-* **No accuracy claim.** No held-out evaluation file exists. The models would
-  score ~100% on their own training data, which is meaningless, so the dashboard
-  shows an "evaluation not available" message instead of a misleading number.
-* **No probabilities.** The classifier is `SGDClassifier(loss="hinge")`, which
-  has no `predict_proba`. The API returns `probabilities: null` and exposes
-  uncalibrated decision-function margins separately, clearly labelled.
-* **No timestamps.** The dataset has no date column, so the "time trend" uses
-  `vehicle_age_months` buckets as a clearly-labelled proxy.
-* **Model version.** `scikit-learn==1.6.1` is pinned because that is the version
-  the artifacts were trained with. `/api/health` reports whether the running
-  version matches.
-* **Assets are untouched.** `app.py`, `requirements.txt`, `dashboard_data.csv`
-  and all three `.joblib` files are read in place and were not modified.
-
-### Reference: reproduced cleaning
-
-The training cleaning was reverse-engineered from the stored `clean_text` column
-and reproduces it for **all 2,500 rows**:
-
-1. lowercase
-2. replace every character except `a-z`, `0-9`, `.`, `%`, whitespace with a space
-3. collapse whitespace and strip
+The completed academic report and slide deck are generated locally by
+`scripts/build_deliverables.py` after installing `requirements-artifacts.txt`.
+They preserve the student team and registration numbers. `output/`, `tmp/`,
+reports, PDFs, PPTX files and screenshots are ignored and must not be committed.
+Only the reproducible build code and machine-readable benchmark evidence are
+tracked. No video or external validation is fabricated.

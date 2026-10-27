@@ -9,7 +9,7 @@ import {
   YAxis,
 } from "recharts";
 
-const COLORS = ["#2563eb", "#0ea5e9", "#14b8a6", "#f59e0b", "#a855f7"];
+const COLORS = ["#17324D", "#36566F", "#147D79", "#64ADA7", "#A6B7BF"];
 
 export default function ClusterChart({ data }) {
   const chartData = data.map((item) => ({
@@ -37,7 +37,7 @@ export default function ClusterChart({ data }) {
               "complaints",
             ]}
           />
-          <Bar dataKey="count" radius={[6, 6, 0, 0]}>
+          <Bar isAnimationActive={false} dataKey="count" radius={[6, 6, 0, 0]}>
             {chartData.map((_, index) => (
               <Cell key={index} fill={COLORS[index % COLORS.length]} />
             ))}

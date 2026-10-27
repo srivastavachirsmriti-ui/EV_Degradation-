@@ -12,21 +12,17 @@ export default function EvaluationPanel({ evaluation, note }) {
   }
 
   return (
-    <div className="card chart-full">
-      <h3>Model evaluation</h3>
+    <div id="model-evaluation" className="card chart-full">
+      <h3>Performance at a glance</h3>
       <p className="subtitle">
-        {evaluation.note || "Metrics loaded from provided evaluation data"}
+        Results from synthetic data. Similar complaint templates stay together during validation so repeated wording cannot inflate the score.
       </p>
-      <div className="row">
-        {Object.entries(evaluation.metrics || {}).map(([key, value]) => (
-          <div key={key} style={{ minWidth: 140 }}>
-            <div className="kpi-label">{key.replace(/_/g, " ")}</div>
-            <div className="kpi-value" style={{ fontSize: "1.3rem" }}>
-              {typeof value === "number" ? value.toFixed(3) : String(value)}
-            </div>
-          </div>
-        ))}
+      <div className="validation-summary">
+        <div><span className="kpi-label">Grouped validation accuracy</span><strong>{(evaluation.classification.accuracy * 100).toFixed(2)}%</strong><span>Whole complaint families held out</span></div>
+        <div><span className="kpi-label">Macro F1</span><strong>{evaluation.classification.macro_f1.toFixed(3)}</strong><span>Equal weight for every category</span></div>
+        <div><span className="kpi-label">Degradation MAE</span><strong>{evaluation.regression.mae.toFixed(3)}<small> pp</small></strong><span>Average absolute error</span></div>
       </div>
+      <details className="validation-explainer"><summary>How should I read these numbers?</summary><p><strong>Accuracy</strong> is the share of complaints given the correct category. <strong>Macro F1</strong> balances precision and recall across all five categories. <strong>MAE</strong> is the average error in a degradation estimate, measured in percentage points.</p><p>{evaluation.note}</p><p>The feature design used this collection. An independent set of real complaints is still needed before making real-world accuracy claims.</p></details>
       <div className="table-scroll" style={{ marginTop: 20 }}>
         <table><thead><tr><th>Benchmark</th><th>Baseline</th><th>Current</th></tr></thead>
           <tbody>
