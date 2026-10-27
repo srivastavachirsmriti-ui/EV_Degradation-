@@ -8,11 +8,7 @@ import EvaluationPanel from "./components/EvaluationPanel.jsx";
 import KpiCards from "./components/KpiCards.jsx";
 import PredictForm from "./components/PredictForm.jsx";
 import SeverityChart from "./components/SeverityChart.jsx";
-
-const EVALUATION_NOTE =
-  "No held-out evaluation file was provided. The classifier would score " +
-  "near-perfectly on its own training data, so no accuracy claim is made. " +
-  "Add a versioned evaluation file to display real metrics.";
+import DegradationForm from "./components/DegradationForm.jsx";
 
 export default function App() {
   const [health, setHealth] = useState(null);
@@ -56,8 +52,7 @@ export default function App() {
         <div>
           <h1>EV Battery Degradation Complaint Mining</h1>
           <p>
-            React + Flask dashboard over the existing classifier, K-Means and
-            dataset.
+            Complaint classification, exploratory clusters and battery degradation estimates.
           </p>
         </div>
         <span className="status-pill">
@@ -93,9 +88,10 @@ export default function App() {
             <AgeTrendChart data={analytics.age_trend} note={analytics.trend_note} />
             <EvaluationPanel
               evaluation={analytics.evaluation}
-              note={EVALUATION_NOTE}
+              note={analytics.evaluation_note}
             />
             <PredictForm />
+            <DegradationForm />
             <ComplaintTable
               categories={analytics.category_distribution.map((c) => c.category)}
               clusters={analytics.cluster_distribution.map((c) => c.cluster_id)}
@@ -106,7 +102,7 @@ export default function App() {
             This dashboard is built on the trained artifacts in the project root
             and reports statistics computed live from{" "}
             <code>dashboard_data.csv</code>. Figures are calculated from the
-            complaint dataset only. No accuracy claim is made.
+            synthetic complaint dataset only. Development benchmark scores do not establish real-world performance.
           </p>
         </>
       )}

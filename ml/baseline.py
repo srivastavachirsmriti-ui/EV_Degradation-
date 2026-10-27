@@ -15,7 +15,7 @@ from sklearn.model_selection import StratifiedGroupKFold, train_test_split
 from sklearn.pipeline import make_pipeline
 from threadpoolctl import threadpool_limits
 
-from ml.evaluate import FEATURES, classification_metrics, latency_ms, regression_metrics, template_groups
+from ml.evaluate import FEATURES, classification_metrics, latency_ms, regression_metrics, template_groups, template_folds
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -26,7 +26,7 @@ def main():
     labels = sorted(df.issue_label.unique())
     text = df.clean_text.to_numpy()
     y = df.issue_label.to_numpy()
-    train, test = next(StratifiedGroupKFold(5, shuffle=True, random_state=42).split(text, y, groups))
+    train, test = next(template_folds(y, groups))
     original = joblib.load(ROOT / "final_classifier.joblib")
     reconstructed = clone(original).fit(text[train], y[train])
     ri, rt = train_test_split(np.arange(len(df)), test_size=.2, random_state=42)
@@ -48,7 +48,7 @@ def main():
                   "health_target_sum_max_error": float(abs(df.battery_health_pct + df.degradation_pct - 100).max()),
                   "source_urls_present": int(df.source_url.notna().sum()),
                   "regressor_in_original_repository": False},
-        "classification_protocol": "First StratifiedGroupKFold(5,shuffle=True,random_state=42) fold; vehicle/numeric template groups; refit clone only on train",
+        "classification_protocol": "First template_folds fold: stratify unique template families into 5 folds, seed=42; one unseen family per class; refit clone only on train",
         "split": {"train_ids": df.record_id.iloc[train].tolist(), "test_ids": df.record_id.iloc[test].tolist(),
                   "train_groups": sorted(set(groups.iloc[train])), "test_groups": sorted(set(groups.iloc[test]))},
         "original_artifact_resubstitution_not_test": classification_metrics(y, original.predict(text), labels),

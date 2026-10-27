@@ -26,6 +26,8 @@ CLUSTER_VECTORIZER_PATH = _path_from_env(
     "EV_CLUSTER_VECTORIZER_PATH", PROJECT_ROOT / "cluster_tfidf_vectorizer.joblib"
 )
 KMEANS_PATH = _path_from_env("EV_KMEANS_PATH", PROJECT_ROOT / "kmeans_model.joblib")
+REGRESSOR_PATH = _path_from_env("EV_REGRESSOR_PATH", PROJECT_ROOT / "degradation_regressor.joblib")
+EVALUATION_PATH = _path_from_env("EV_EVALUATION_PATH", PROJECT_ROOT / "benchmarks/latest.json")
 
 # --- Server -----------------------------------------------------------------
 HOST = os.environ.get("EV_API_HOST", "127.0.0.1")

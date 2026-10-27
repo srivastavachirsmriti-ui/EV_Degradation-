@@ -8,6 +8,7 @@ import time
 import numpy as np
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, f1_score
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+from sklearn.model_selection import StratifiedKFold
 
 FEATURES = ["vehicle_age_months", "total_charging_cycles", "avg_temperature_c",
             "fast_charge_ratio", "avg_discharge_rate_c"]
@@ -22,6 +23,25 @@ def template_groups(df):
         text = re.sub(r"\d+(?:\.\d+)?", "<number>", text)
         return hashlib.sha256(text.encode()).hexdigest()[:16]
     return df.post_text.map(group)
+
+
+def template_folds(y, groups, n_splits=5):
+    """Stratify unique families, guaranteeing every class in every fold.
+
+    Row-weighted StratifiedGroupKFold can omit a class with only 25 families.
+    This corpus has exactly five pure-label families per class.
+    """
+    unique = np.unique(groups)
+    labels = []
+    for group in unique:
+        group_labels = np.unique(np.asarray(y)[np.asarray(groups) == group])
+        if len(group_labels) != 1:
+            raise ValueError("A template family has conflicting labels")
+        labels.append(group_labels[0])
+    cv = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)
+    for train, test in cv.split(unique, labels):
+        yield (np.flatnonzero(np.isin(groups, unique[train])),
+               np.flatnonzero(np.isin(groups, unique[test])))
 
 
 def classification_metrics(y, predicted, labels):

@@ -35,8 +35,7 @@ export default function PredictForm() {
     <div className="card">
       <h3>Classify a complaint</h3>
       <p className="subtitle">
-        Sends the text to POST /api/predict, cleaned with the same pipeline used
-        in training, and returns the issue category and K-Means cluster.
+        Classifies the complaint with a fast calibrated model and flags uncertain results for review.
       </p>
       <form onSubmit={onSubmit}>
         <label className="field">
@@ -68,6 +67,7 @@ export default function PredictForm() {
       {result && (
         <div className="prediction">
           <h4>Prediction</h4>
+          {result.needs_review && <div className="banner warn">Low confidence. Please review this category manually.</div>}
           <div className="row">
             <span className="badge">Issue: {result.issue_category}</span>
             <span className="badge">{result.cluster_label}</span>
@@ -78,6 +78,8 @@ export default function PredictForm() {
           </p>
 
           {result.probabilities ? (
+            <>
+            <p className="kpi-foot">{result.probability_note} Path: {result.classification_path}.</p>
             <div className="score-list">
               {Object.entries(result.probabilities).map(([label, value]) => (
                 <div className="score-row" key={label}>
@@ -89,6 +91,7 @@ export default function PredictForm() {
                 </div>
               ))}
             </div>
+            </>
           ) : (
             <>
               <p className="kpi-foot" style={{ marginTop: 12 }}>

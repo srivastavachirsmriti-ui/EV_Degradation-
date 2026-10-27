@@ -64,3 +64,10 @@ export function predict(text) {
     body: JSON.stringify({ text }),
   });
 }
+
+export function predictDegradation(values) {
+  return request("/api/predict-degradation", {
+    method: "POST", headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(values),
+  });
+}

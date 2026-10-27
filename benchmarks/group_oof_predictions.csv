@@ -1,0 +1,2501 @@
+record_id,template_group,actual,baseline,current
+syn_0001,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0002,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0003,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0004,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0005,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0006,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0007,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0008,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0009,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0010,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0011,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0012,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0013,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0014,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0015,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0016,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0017,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0018,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0019,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0020,dd3ba80a8b9c5926,Other,Other,Other
+syn_0021,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0022,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0023,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0024,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0025,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0026,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0027,106eb87a50f42ffe,Other,Other,Other
+syn_0028,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0029,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0030,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0031,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0032,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0033,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0034,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0035,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0036,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0037,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0038,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0039,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0040,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0041,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0042,106eb87a50f42ffe,Other,Other,Other
+syn_0043,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0044,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0045,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0046,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0047,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0048,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0049,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0050,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0051,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0052,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0053,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0054,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0055,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0056,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0057,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0058,7886fde568390380,Other,Capacity Degradation,Other
+syn_0059,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0060,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0061,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0062,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0063,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0064,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0065,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0066,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0067,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0068,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0069,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0070,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0071,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0072,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0073,2c3c463046205448,Charging Issue,Range/Performance,Charging Issue
+syn_0074,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0075,7886fde568390380,Other,Capacity Degradation,Other
+syn_0076,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0077,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0078,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0079,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0080,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0081,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0082,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0083,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0084,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0085,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0086,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0087,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0088,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0089,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0090,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0091,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0092,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0093,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0094,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0095,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0096,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0097,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0098,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0099,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0100,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0101,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0102,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0103,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0104,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0105,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0106,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0107,7886fde568390380,Other,Capacity Degradation,Other
+syn_0108,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0109,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0110,dd3ba80a8b9c5926,Other,Other,Other
+syn_0111,7886fde568390380,Other,Capacity Degradation,Other
+syn_0112,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0113,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0114,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0115,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0116,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0117,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0118,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0119,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0120,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0121,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0122,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0123,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0124,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0125,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0126,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0127,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0128,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0129,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0130,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0131,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0132,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0133,dd3ba80a8b9c5926,Other,Other,Other
+syn_0134,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0135,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0136,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0137,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0138,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0139,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0140,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0141,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0142,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0143,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0144,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0145,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0146,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0147,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0148,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0149,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0150,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0151,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0152,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0153,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0154,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0155,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0156,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0157,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0158,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0159,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0160,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0161,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0162,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0163,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0164,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0165,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0166,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0167,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0168,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0169,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0170,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0171,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0172,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0173,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0174,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0175,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0176,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0177,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0178,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0179,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0180,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0181,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0182,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0183,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0184,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0185,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0186,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0187,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0188,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0189,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0190,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0191,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0192,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0193,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0194,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0195,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0196,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0197,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0198,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0199,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0200,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0201,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0202,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0203,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0204,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0205,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0206,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0207,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0208,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0209,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0210,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0211,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0212,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0213,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0214,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0215,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0216,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0217,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0218,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0219,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0220,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0221,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0222,dd3ba80a8b9c5926,Other,Other,Other
+syn_0223,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0224,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0225,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0226,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0227,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0228,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0229,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0230,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0231,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0232,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0233,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0234,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0235,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0236,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0237,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0238,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0239,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0240,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0241,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0242,7886fde568390380,Other,Capacity Degradation,Other
+syn_0243,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0244,106eb87a50f42ffe,Other,Other,Other
+syn_0245,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0246,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0247,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0248,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0249,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0250,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0251,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0252,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0253,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0254,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0255,7886fde568390380,Other,Capacity Degradation,Other
+syn_0256,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0257,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0258,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0259,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0260,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0261,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0262,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0263,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0264,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0265,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0266,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0267,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0268,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0269,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0270,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0271,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0272,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0273,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0274,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0275,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0276,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0277,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0278,dd3ba80a8b9c5926,Other,Other,Other
+syn_0279,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0280,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0281,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0282,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0283,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0284,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0285,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0286,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0287,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0288,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0289,106eb87a50f42ffe,Other,Other,Other
+syn_0290,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0291,dd3ba80a8b9c5926,Other,Other,Other
+syn_0292,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0293,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0294,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0295,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0296,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0297,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0298,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0299,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0300,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0301,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0302,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0303,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0304,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0305,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0306,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0307,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0308,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0309,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0310,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0311,106eb87a50f42ffe,Other,Other,Other
+syn_0312,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0313,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0314,dd3ba80a8b9c5926,Other,Other,Other
+syn_0315,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0316,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0317,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0318,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0319,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0320,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_0321,9b7c8371bfc3fa9f,Other,Other,Other
+syn_0322,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0323,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0324,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0325,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0326,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0327,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0328,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0329,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0330,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0331,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0332,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0333,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0334,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0335,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0336,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0337,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0338,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0339,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0340,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0341,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0342,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0343,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0344,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0345,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0346,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0347,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0348,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0349,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0350,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0351,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0352,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0353,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0354,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0355,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0356,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0357,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0358,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0359,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0360,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0361,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0362,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0363,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0364,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0365,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0366,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0367,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0368,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0369,106eb87a50f42ffe,Other,Other,Other
+syn_0370,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0371,106eb87a50f42ffe,Other,Other,Other
+syn_0372,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0373,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0374,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0375,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0376,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0377,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0378,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0379,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0380,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0381,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0382,7886fde568390380,Other,Capacity Degradation,Other
+syn_0383,7886fde568390380,Other,Capacity Degradation,Other
+syn_0384,7886fde568390380,Other,Capacity Degradation,Other
+syn_0385,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0386,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0387,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0388,106eb87a50f42ffe,Other,Other,Other
+syn_0389,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0390,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0391,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0392,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0393,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0394,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0395,7886fde568390380,Other,Capacity Degradation,Other
+syn_0396,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0397,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0398,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0399,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0400,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0401,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0402,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0403,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0404,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0405,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0406,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0407,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0408,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0409,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0410,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0411,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0412,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0413,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0414,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0415,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0416,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0417,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0418,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0419,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0420,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0421,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0422,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0423,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0424,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0425,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0426,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0427,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0428,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0429,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0430,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0431,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0432,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0433,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0434,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0435,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0436,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0437,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0438,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0439,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_0440,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0441,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0442,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0443,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0444,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0445,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0446,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0447,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0448,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0449,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0450,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0451,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0452,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0453,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0454,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0455,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0456,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0457,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0458,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0459,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0460,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0461,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0462,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0463,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0464,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0465,106eb87a50f42ffe,Other,Other,Other
+syn_0466,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0467,dd3ba80a8b9c5926,Other,Other,Other
+syn_0468,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0469,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0470,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0471,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0472,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0473,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0474,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0475,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0476,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0477,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0478,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0479,106eb87a50f42ffe,Other,Other,Other
+syn_0480,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0481,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0482,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0483,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0484,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0485,dd3ba80a8b9c5926,Other,Other,Other
+syn_0486,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0487,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0488,dd3ba80a8b9c5926,Other,Other,Other
+syn_0489,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0490,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0491,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0492,7886fde568390380,Other,Capacity Degradation,Other
+syn_0493,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0494,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0495,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0496,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0497,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0498,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0499,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0500,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0501,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0502,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0503,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0504,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0505,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0506,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0507,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0508,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0509,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0510,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0511,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0512,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0513,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0514,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0515,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0516,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0517,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0518,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0519,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0520,dd3ba80a8b9c5926,Other,Other,Other
+syn_0521,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0522,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0523,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0524,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0525,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0526,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0527,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0528,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0529,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0530,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0531,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0532,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_0533,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0534,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0535,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0536,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0537,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0538,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0539,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0540,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0541,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0542,106eb87a50f42ffe,Other,Other,Other
+syn_0543,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0544,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0545,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0546,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0547,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0548,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0549,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0550,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0551,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0552,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0553,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0554,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0555,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0556,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0557,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0558,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0559,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0560,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0561,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0562,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0563,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0564,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0565,106eb87a50f42ffe,Other,Other,Other
+syn_0566,dd3ba80a8b9c5926,Other,Other,Other
+syn_0567,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0568,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0569,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0570,106eb87a50f42ffe,Other,Other,Other
+syn_0571,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0572,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0573,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0574,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0575,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0576,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0577,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0578,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0579,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0580,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0581,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0582,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0583,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0584,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0585,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0586,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0587,106eb87a50f42ffe,Other,Other,Other
+syn_0588,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0589,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0590,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0591,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0592,40b3a1b43c6b4ac5,Range/Performance,Capacity Degradation,Range/Performance
+syn_0593,7886fde568390380,Other,Capacity Degradation,Other
+syn_0594,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0595,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0596,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0597,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0598,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0599,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0600,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0601,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0602,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0603,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0604,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0605,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0606,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0607,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0608,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0609,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0610,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0611,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0612,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0613,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0614,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0615,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0616,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0617,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0618,dd3ba80a8b9c5926,Other,Other,Other
+syn_0619,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0620,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0621,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0622,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0623,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0624,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0625,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0626,dd3ba80a8b9c5926,Other,Other,Other
+syn_0627,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0628,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0629,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0630,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0631,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0632,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0633,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0634,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0635,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0636,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0637,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0638,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0639,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0640,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0641,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0642,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0643,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0644,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0645,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0646,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0647,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0648,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0649,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0650,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0651,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0652,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0653,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0654,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0655,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0656,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0657,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0658,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0659,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0660,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0661,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0662,7886fde568390380,Other,Capacity Degradation,Other
+syn_0663,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0664,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0665,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0666,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0667,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0668,7886fde568390380,Other,Capacity Degradation,Other
+syn_0669,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0670,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0671,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0672,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0673,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0674,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0675,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0676,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0677,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0678,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0679,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0680,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0681,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0682,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0683,7886fde568390380,Other,Capacity Degradation,Other
+syn_0684,106eb87a50f42ffe,Other,Other,Other
+syn_0685,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0686,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0687,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0688,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0689,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0690,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0691,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0692,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0693,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0694,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0695,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0696,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0697,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0698,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0699,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0700,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0701,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0702,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0703,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0704,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0705,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0706,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0707,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0708,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0709,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_0710,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0711,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0712,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0713,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0714,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0715,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0716,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0717,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0718,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0719,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0720,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0721,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0722,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0723,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0724,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0725,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0726,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0727,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0728,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0729,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0730,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0731,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0732,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0733,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0734,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0735,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0736,106eb87a50f42ffe,Other,Other,Other
+syn_0737,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0738,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0739,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0740,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0741,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0742,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0743,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0744,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0745,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0746,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0747,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0748,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0749,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0750,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0751,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0752,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0753,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0754,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0755,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0756,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0757,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0758,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0759,106eb87a50f42ffe,Other,Other,Other
+syn_0760,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0761,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0762,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0763,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0764,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0765,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0766,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0767,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0768,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0769,dd3ba80a8b9c5926,Other,Other,Other
+syn_0770,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0771,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0772,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0773,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0774,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0775,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0776,106eb87a50f42ffe,Other,Other,Other
+syn_0777,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0778,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0779,dd3ba80a8b9c5926,Other,Other,Other
+syn_0780,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0781,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0782,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0783,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0784,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0785,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_0786,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0787,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0788,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0789,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0790,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0791,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0792,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0793,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0794,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0795,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0796,7886fde568390380,Other,Capacity Degradation,Other
+syn_0797,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0798,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0799,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0800,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0801,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0802,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0803,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_0804,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0805,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0806,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0807,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0808,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0809,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0810,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0811,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0812,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0813,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0814,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0815,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0816,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0817,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0818,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0819,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0820,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0821,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0822,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0823,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0824,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0825,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0826,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0827,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0828,40b3a1b43c6b4ac5,Range/Performance,Capacity Degradation,Range/Performance
+syn_0829,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0830,106eb87a50f42ffe,Other,Other,Other
+syn_0831,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0832,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0833,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0834,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0835,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0836,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0837,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0838,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0839,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0840,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0841,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0842,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0843,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0844,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0845,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0846,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0847,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0848,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0849,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0850,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0851,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0852,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0853,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0854,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0855,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0856,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0857,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0858,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0859,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0860,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0861,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0862,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0863,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0864,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_0865,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0866,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0867,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0868,7886fde568390380,Other,Capacity Degradation,Other
+syn_0869,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0870,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0871,106eb87a50f42ffe,Other,Other,Other
+syn_0872,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0873,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0874,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0875,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0876,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0877,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0878,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0879,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0880,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0881,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0882,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0883,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0884,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0885,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0886,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0887,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0888,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0889,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0890,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0891,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0892,2c3c463046205448,Charging Issue,Range/Performance,Charging Issue
+syn_0893,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0894,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0895,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0896,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0897,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0898,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0899,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0900,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0901,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0902,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0903,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0904,106eb87a50f42ffe,Other,Other,Other
+syn_0905,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0906,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0907,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0908,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0909,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0910,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0911,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0912,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0913,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_0914,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0915,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0916,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0917,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0918,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0919,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_0920,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0921,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0922,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0923,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0924,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0925,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0926,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0927,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0928,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0929,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0930,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0931,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0932,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0933,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0934,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0935,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0936,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0937,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0938,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0939,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0940,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0941,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0942,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0943,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0944,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0945,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0946,7886fde568390380,Other,Capacity Degradation,Other
+syn_0947,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0948,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0949,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0950,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0951,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0952,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0953,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0954,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0955,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0956,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0957,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0958,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0959,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0960,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0961,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0962,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0963,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0964,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0965,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_0966,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_0967,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0968,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0969,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0970,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_0971,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0972,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0973,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0974,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_0975,7886fde568390380,Other,Capacity Degradation,Other
+syn_0976,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0977,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0978,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_0979,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0980,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0981,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0982,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0983,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0984,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0985,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0986,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0987,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_0988,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_0989,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0990,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0991,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_0992,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_0993,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_0994,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_0995,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_0996,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_0997,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_0998,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_0999,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1000,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1001,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1002,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1003,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1004,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1005,7886fde568390380,Other,Capacity Degradation,Other
+syn_1006,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1007,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1008,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1009,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1010,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1011,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1012,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1013,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1014,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1015,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1016,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1017,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1018,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1019,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1020,106eb87a50f42ffe,Other,Other,Other
+syn_1021,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1022,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1023,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1024,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1025,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1026,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1027,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1028,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1029,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1030,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1031,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1032,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1033,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1034,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1035,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1036,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1037,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1038,106eb87a50f42ffe,Other,Other,Other
+syn_1039,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1040,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1041,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1042,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1043,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1044,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1045,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1046,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1047,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1048,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1049,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1050,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1051,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1052,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1053,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1054,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1055,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1056,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1057,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1058,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1059,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1060,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1061,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1062,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1063,dd3ba80a8b9c5926,Other,Other,Other
+syn_1064,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1065,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1066,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1067,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1068,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1069,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1070,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1071,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1072,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1073,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1074,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1075,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1076,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1077,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1078,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1079,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1080,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1081,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1082,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1083,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1084,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1085,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1086,dd3ba80a8b9c5926,Other,Other,Other
+syn_1087,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1088,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1089,dd3ba80a8b9c5926,Other,Other,Other
+syn_1090,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1091,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1092,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1093,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1094,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1095,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1096,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1097,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1098,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1099,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1100,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1101,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1102,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1103,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1104,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1105,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1106,dd3ba80a8b9c5926,Other,Other,Other
+syn_1107,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1108,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1109,106eb87a50f42ffe,Other,Other,Other
+syn_1110,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1111,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1112,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1113,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1114,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1115,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1116,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1117,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1118,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1119,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1120,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1121,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1122,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1123,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1124,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1125,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1126,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1127,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1128,106eb87a50f42ffe,Other,Other,Other
+syn_1129,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1130,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1131,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1132,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1133,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1134,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1135,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1136,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1137,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1138,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1139,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1140,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1141,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1142,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1143,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1144,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1145,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1146,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1147,7886fde568390380,Other,Capacity Degradation,Other
+syn_1148,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1149,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1150,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1151,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1152,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1153,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1154,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1155,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1156,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1157,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1158,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1159,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1160,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1161,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1162,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1163,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1164,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1165,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1166,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1167,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1168,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1169,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1170,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1171,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1172,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1173,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1174,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1175,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1176,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1177,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1178,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1179,dd3ba80a8b9c5926,Other,Other,Other
+syn_1180,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1181,2c3c463046205448,Charging Issue,Range/Performance,Charging Issue
+syn_1182,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1183,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1184,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1185,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1186,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1187,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1188,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1189,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1190,7886fde568390380,Other,Other,Other
+syn_1191,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1192,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1193,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1194,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1195,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1196,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1197,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1198,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1199,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1200,7886fde568390380,Other,Capacity Degradation,Other
+syn_1201,7886fde568390380,Other,Capacity Degradation,Other
+syn_1202,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1203,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1204,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1205,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1206,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1207,dd3ba80a8b9c5926,Other,Other,Other
+syn_1208,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1209,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1210,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1211,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1212,dd3ba80a8b9c5926,Other,Other,Other
+syn_1213,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1214,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1215,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1216,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1217,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1218,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1219,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1220,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1221,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1222,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1223,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1224,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1225,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1226,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1227,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1228,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1229,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1230,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1231,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1232,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1233,2c3c463046205448,Charging Issue,Range/Performance,Charging Issue
+syn_1234,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1235,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1236,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1237,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1238,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1239,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1240,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1241,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1242,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1243,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1244,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1245,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1246,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1247,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1248,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1249,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1250,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1251,7886fde568390380,Other,Capacity Degradation,Other
+syn_1252,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1253,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1254,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1255,dd3ba80a8b9c5926,Other,Other,Other
+syn_1256,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1257,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1258,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1259,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1260,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1261,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1262,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1263,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1264,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1265,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1266,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1267,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1268,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1269,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1270,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1271,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1272,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1273,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1274,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1275,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1276,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1277,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1278,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1279,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1280,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1281,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1282,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1283,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1284,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1285,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1286,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1287,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1288,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1289,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1290,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1291,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1292,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1293,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1294,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1295,106eb87a50f42ffe,Other,Other,Other
+syn_1296,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1297,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1298,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1299,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1300,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1301,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1302,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1303,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1304,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1305,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1306,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1307,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1308,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1309,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1310,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1311,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1312,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1313,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1314,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1315,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1316,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1317,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1318,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1319,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1320,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1321,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1322,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1323,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1324,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1325,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1326,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1327,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1328,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1329,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1330,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1331,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1332,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1333,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1334,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1335,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1336,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1337,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1338,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1339,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1340,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1341,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1342,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1343,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1344,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1345,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1346,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1347,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1348,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1349,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1350,dd3ba80a8b9c5926,Other,Other,Other
+syn_1351,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1352,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1353,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1354,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1355,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1356,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1357,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1358,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1359,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1360,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1361,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1362,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1363,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1364,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1365,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1366,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1367,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1368,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1369,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1370,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1371,106eb87a50f42ffe,Other,Other,Other
+syn_1372,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1373,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1374,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1375,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1376,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1377,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1378,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1379,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1380,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1381,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1382,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1383,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1384,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1385,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1386,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1387,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1388,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1389,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1390,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1391,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1392,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1393,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1394,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1395,dd3ba80a8b9c5926,Other,Other,Other
+syn_1396,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1397,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1398,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1399,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1400,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1401,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1402,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1403,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1404,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1405,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1406,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1407,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1408,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1409,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1410,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1411,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1412,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1413,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1414,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1415,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1416,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1417,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1418,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1419,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1420,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1421,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1422,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1423,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1424,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1425,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1426,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1427,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1428,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1429,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1430,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1431,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1432,7886fde568390380,Other,Capacity Degradation,Other
+syn_1433,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1434,106eb87a50f42ffe,Other,Other,Other
+syn_1435,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1436,dd3ba80a8b9c5926,Other,Other,Other
+syn_1437,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1438,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1439,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1440,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1441,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1442,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1443,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1444,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1445,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1446,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1447,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1448,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1449,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1450,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1451,40b3a1b43c6b4ac5,Range/Performance,Capacity Degradation,Range/Performance
+syn_1452,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1453,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1454,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1455,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1456,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1457,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1458,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1459,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1460,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1461,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1462,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1463,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1464,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1465,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1466,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1467,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1468,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1469,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1470,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1471,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1472,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1473,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1474,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1475,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1476,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1477,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1478,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1479,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1480,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1481,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1482,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1483,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1484,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1485,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1486,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1487,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1488,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1489,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1490,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1491,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1492,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1493,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_1494,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1495,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1496,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1497,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1498,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1499,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1500,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1501,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1502,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1503,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1504,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1505,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1506,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1507,7886fde568390380,Other,Capacity Degradation,Other
+syn_1508,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1509,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1510,dd3ba80a8b9c5926,Other,Other,Other
+syn_1511,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1512,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1513,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1514,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1515,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1516,106eb87a50f42ffe,Other,Other,Other
+syn_1517,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1518,106eb87a50f42ffe,Other,Other,Other
+syn_1519,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1520,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1521,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1522,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1523,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1524,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1525,106eb87a50f42ffe,Other,Other,Other
+syn_1526,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1527,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1528,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1529,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1530,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1531,7886fde568390380,Other,Capacity Degradation,Other
+syn_1532,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1533,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1534,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1535,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1536,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1537,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1538,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1539,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1540,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1541,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1542,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1543,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1544,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1545,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1546,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1547,dd3ba80a8b9c5926,Other,Other,Other
+syn_1548,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1549,106eb87a50f42ffe,Other,Other,Other
+syn_1550,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1551,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1552,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1553,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1554,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1555,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1556,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1557,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1558,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1559,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1560,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1561,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1562,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1563,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1564,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1565,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1566,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1567,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1568,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1569,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1570,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1571,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1572,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1573,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1574,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1575,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1576,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1577,7886fde568390380,Other,Capacity Degradation,Other
+syn_1578,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1579,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1580,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1581,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1582,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1583,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1584,7886fde568390380,Other,Capacity Degradation,Other
+syn_1585,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1586,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1587,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1588,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1589,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1590,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1591,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1592,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1593,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1594,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1595,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1596,dd3ba80a8b9c5926,Other,Other,Other
+syn_1597,dd3ba80a8b9c5926,Other,Other,Other
+syn_1598,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1599,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1600,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1601,106eb87a50f42ffe,Other,Other,Other
+syn_1602,dd3ba80a8b9c5926,Other,Other,Other
+syn_1603,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1604,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1605,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1606,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1607,dd3ba80a8b9c5926,Other,Other,Other
+syn_1608,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1609,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1610,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1611,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1612,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1613,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1614,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1615,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1616,106eb87a50f42ffe,Other,Other,Other
+syn_1617,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1618,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1619,dd3ba80a8b9c5926,Other,Other,Other
+syn_1620,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1621,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1622,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1623,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1624,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1625,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1626,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1627,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1628,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1629,7886fde568390380,Other,Capacity Degradation,Other
+syn_1630,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1631,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1632,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1633,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1634,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1635,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1636,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1637,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1638,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1639,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1640,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1641,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1642,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1643,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1644,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1645,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1646,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1647,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1648,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1649,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1650,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1651,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1652,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1653,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1654,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1655,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1656,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1657,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1658,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1659,106eb87a50f42ffe,Other,Other,Other
+syn_1660,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1661,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1662,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1663,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1664,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1665,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1666,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1667,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1668,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1669,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1670,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1671,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1672,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1673,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1674,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1675,106eb87a50f42ffe,Other,Other,Other
+syn_1676,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1677,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1678,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1679,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1680,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1681,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1682,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1683,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1684,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1685,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1686,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1687,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1688,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1689,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1690,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1691,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1692,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1693,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1694,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1695,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1696,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1697,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1698,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1699,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1700,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1701,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1702,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1703,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1704,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1705,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1706,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1707,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1708,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1709,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1710,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1711,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1712,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1713,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1714,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1715,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1716,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1717,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1718,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1719,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1720,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1721,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1722,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1723,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1724,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1725,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1726,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1727,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1728,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1729,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1730,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1731,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1732,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1733,7886fde568390380,Other,Capacity Degradation,Other
+syn_1734,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1735,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1736,dd3ba80a8b9c5926,Other,Other,Other
+syn_1737,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1738,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1739,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1740,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1741,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1742,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1743,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1744,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1745,106eb87a50f42ffe,Other,Other,Other
+syn_1746,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1747,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1748,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1749,7886fde568390380,Other,Capacity Degradation,Other
+syn_1750,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1751,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1752,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1753,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1754,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1755,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1756,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1757,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1758,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1759,106eb87a50f42ffe,Other,Other,Other
+syn_1760,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1761,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1762,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1763,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1764,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1765,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1766,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1767,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1768,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1769,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1770,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1771,dd3ba80a8b9c5926,Other,Other,Other
+syn_1772,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_1773,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1774,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1775,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1776,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1777,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1778,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1779,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1780,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1781,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1782,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1783,dd3ba80a8b9c5926,Other,Other,Other
+syn_1784,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1785,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1786,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1787,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1788,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1789,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1790,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1791,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1792,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1793,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1794,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1795,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1796,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1797,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1798,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1799,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1800,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1801,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1802,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1803,7886fde568390380,Other,Capacity Degradation,Other
+syn_1804,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1805,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1806,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1807,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1808,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1809,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1810,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1811,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1812,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1813,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1814,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1815,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1816,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1817,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1818,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1819,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1820,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1821,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1822,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1823,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1824,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1825,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1826,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1827,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1828,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1829,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1830,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1831,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1832,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1833,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1834,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1835,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1836,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1837,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1838,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1839,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1840,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1841,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1842,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1843,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1844,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1845,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1846,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1847,7886fde568390380,Other,Capacity Degradation,Other
+syn_1848,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1849,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1850,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1851,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1852,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1853,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1854,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1855,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1856,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1857,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1858,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1859,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1860,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1861,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1862,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1863,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1864,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1865,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1866,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1867,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1868,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1869,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1870,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1871,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1872,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1873,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_1874,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1875,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1876,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1877,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_1878,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1879,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1880,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1881,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1882,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1883,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1884,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1885,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1886,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1887,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1888,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1889,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1890,7886fde568390380,Other,Other,Other
+syn_1891,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1892,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1893,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1894,dd3ba80a8b9c5926,Other,Other,Other
+syn_1895,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1896,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1897,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1898,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1899,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1900,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1901,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1902,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1903,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1904,dd3ba80a8b9c5926,Other,Other,Other
+syn_1905,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1906,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1907,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1908,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1909,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1910,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1911,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1912,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1913,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1914,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1915,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1916,dd3ba80a8b9c5926,Other,Other,Other
+syn_1917,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1918,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1919,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1920,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1921,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_1922,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1923,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1924,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1925,dd3ba80a8b9c5926,Other,Other,Other
+syn_1926,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1927,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1928,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1929,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1930,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1931,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1932,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1933,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1934,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1935,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1936,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1937,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1938,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1939,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1940,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1941,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1942,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1943,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1944,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1945,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1946,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1947,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1948,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1949,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1950,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1951,7886fde568390380,Other,Capacity Degradation,Other
+syn_1952,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1953,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1954,106eb87a50f42ffe,Other,Other,Other
+syn_1955,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1956,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1957,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1958,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1959,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1960,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1961,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_1962,dd3ba80a8b9c5926,Other,Other,Other
+syn_1963,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1964,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_1965,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1966,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_1967,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1968,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_1969,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1970,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_1971,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1972,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_1973,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1974,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1975,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_1976,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1977,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1978,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_1979,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_1980,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1981,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1982,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_1983,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1984,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_1985,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1986,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_1987,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_1988,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_1989,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1990,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1991,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_1992,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_1993,9b7c8371bfc3fa9f,Other,Other,Other
+syn_1994,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1995,dd3ba80a8b9c5926,Other,Other,Other
+syn_1996,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1997,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_1998,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_1999,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2000,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2001,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2002,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2003,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2004,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2005,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2006,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2007,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2008,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2009,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2010,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2011,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2012,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2013,106eb87a50f42ffe,Other,Other,Other
+syn_2014,106eb87a50f42ffe,Other,Other,Other
+syn_2015,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2016,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2017,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2018,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2019,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2020,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2021,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2022,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2023,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2024,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2025,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2026,dd3ba80a8b9c5926,Other,Other,Other
+syn_2027,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2028,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2029,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2030,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2031,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2032,9b7c8371bfc3fa9f,Other,Other,Other
+syn_2033,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2034,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2035,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2036,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2037,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2038,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2039,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2040,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2041,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_2042,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2043,dd3ba80a8b9c5926,Other,Other,Other
+syn_2044,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2045,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2046,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2047,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2048,106eb87a50f42ffe,Other,Other,Other
+syn_2049,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2050,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2051,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2052,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2053,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2054,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2055,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2056,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2057,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2058,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2059,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2060,dd3ba80a8b9c5926,Other,Other,Other
+syn_2061,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2062,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2063,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2064,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2065,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2066,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2067,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2068,106eb87a50f42ffe,Other,Other,Other
+syn_2069,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2070,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2071,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2072,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2073,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2074,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2075,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2076,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2077,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2078,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2079,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2080,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2081,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2082,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2083,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2084,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2085,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2086,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2087,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2088,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2089,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2090,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2091,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2092,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2093,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2094,106eb87a50f42ffe,Other,Other,Other
+syn_2095,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2096,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2097,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2098,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2099,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2100,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2101,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2102,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2103,7886fde568390380,Other,Capacity Degradation,Other
+syn_2104,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2105,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2106,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2107,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2108,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2109,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2110,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2111,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2112,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2113,106eb87a50f42ffe,Other,Other,Other
+syn_2114,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2115,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2116,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2117,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2118,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2119,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2120,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2121,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2122,106eb87a50f42ffe,Other,Other,Other
+syn_2123,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2124,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2125,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2126,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2127,106eb87a50f42ffe,Other,Other,Other
+syn_2128,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2129,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2130,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2131,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2132,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2133,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2134,7886fde568390380,Other,Capacity Degradation,Other
+syn_2135,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2136,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2137,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2138,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2139,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2140,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2141,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2142,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2143,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2144,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2145,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2146,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2147,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2148,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2149,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2150,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2151,dd3ba80a8b9c5926,Other,Other,Other
+syn_2152,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2153,7886fde568390380,Other,Capacity Degradation,Other
+syn_2154,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2155,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2156,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2157,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2158,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2159,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2160,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2161,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2162,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2163,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2164,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2165,40b3a1b43c6b4ac5,Range/Performance,Capacity Degradation,Range/Performance
+syn_2166,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2167,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2168,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2169,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2170,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2171,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2172,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2173,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2174,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2175,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2176,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2177,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2178,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2179,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2180,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2181,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2182,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2183,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2184,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2185,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2186,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2187,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2188,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2189,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2190,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2191,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2192,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2193,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2194,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2195,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2196,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2197,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2198,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2199,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2200,106eb87a50f42ffe,Other,Other,Other
+syn_2201,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2202,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2203,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2204,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2205,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2206,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2207,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2208,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2209,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2210,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2211,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2212,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2213,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2214,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2215,106eb87a50f42ffe,Other,Other,Other
+syn_2216,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2217,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2218,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2219,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2220,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2221,106eb87a50f42ffe,Other,Other,Other
+syn_2222,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2223,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2224,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2225,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2226,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2227,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2228,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2229,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2230,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2231,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2232,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2233,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2234,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2235,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2236,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2237,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2238,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2239,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2240,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2241,dd3ba80a8b9c5926,Other,Other,Other
+syn_2242,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2243,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2244,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2245,7886fde568390380,Other,Capacity Degradation,Other
+syn_2246,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2247,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2248,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2249,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2250,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2251,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2252,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2253,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2254,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2255,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2256,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2257,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2258,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2259,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2260,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2261,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2262,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2263,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2264,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2265,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2266,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2267,106eb87a50f42ffe,Other,Other,Other
+syn_2268,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2269,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2270,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2271,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2272,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2273,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2274,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2275,40b3a1b43c6b4ac5,Range/Performance,Capacity Degradation,Range/Performance
+syn_2276,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2277,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2278,9b7c8371bfc3fa9f,Other,Capacity Degradation,Other
+syn_2279,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2280,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2281,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2282,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2283,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2284,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2285,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2286,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2287,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2288,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2289,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2290,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2291,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2292,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2293,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2294,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2295,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2296,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2297,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2298,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2299,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2300,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2301,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2302,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2303,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2304,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2305,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2306,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2307,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2308,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2309,7886fde568390380,Other,Capacity Degradation,Other
+syn_2310,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2311,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2312,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2313,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2314,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2315,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2316,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2317,7886fde568390380,Other,Capacity Degradation,Other
+syn_2318,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2319,dd3ba80a8b9c5926,Other,Other,Other
+syn_2320,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2321,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2322,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2323,dd3ba80a8b9c5926,Other,Other,Other
+syn_2324,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2325,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2326,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2327,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2328,dbc0ed56cf451ce2,Range/Performance,Range/Performance,Range/Performance
+syn_2329,106eb87a50f42ffe,Other,Other,Other
+syn_2330,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2331,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2332,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2333,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2334,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2335,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2336,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2337,cffb93da026f82a9,Range/Performance,Charging Issue,Range/Performance
+syn_2338,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2339,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2340,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2341,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2342,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2343,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2344,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2345,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2346,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2347,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2348,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2349,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2350,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2351,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2352,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2353,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2354,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2355,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2356,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2357,dd3ba80a8b9c5926,Other,Other,Other
+syn_2358,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2359,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2360,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2361,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2362,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2363,106eb87a50f42ffe,Other,Other,Other
+syn_2364,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2365,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2366,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2367,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2368,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2369,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2370,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2371,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2372,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2373,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2374,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2375,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2376,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2377,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2378,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2379,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2380,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2381,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2382,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2383,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2384,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2385,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2386,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2387,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2388,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2389,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2390,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2391,106eb87a50f42ffe,Other,Other,Other
+syn_2392,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2393,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2394,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2395,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2396,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2397,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2398,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2399,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2400,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2401,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2402,dd3ba80a8b9c5926,Other,Other,Other
+syn_2403,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2404,106eb87a50f42ffe,Other,Other,Other
+syn_2405,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2406,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2407,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2408,9b7c8371bfc3fa9f,Other,Other,Other
+syn_2409,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2410,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2411,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2412,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2413,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2414,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2415,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2416,106eb87a50f42ffe,Other,Other,Other
+syn_2417,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2418,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2419,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2420,dbc0ed56cf451ce2,Range/Performance,Capacity Degradation,Range/Performance
+syn_2421,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2422,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2423,49d1b5a3222efb59,Thermal Issue,Range/Performance,Thermal Issue
+syn_2424,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2425,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2426,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2427,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2428,7886fde568390380,Other,Other,Other
+syn_2429,7886fde568390380,Other,Other,Other
+syn_2430,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2431,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2432,dd3ba80a8b9c5926,Other,Other,Other
+syn_2433,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2434,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2435,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2436,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2437,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2438,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2439,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2440,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2441,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2442,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2443,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2444,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2445,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2446,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2447,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2448,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2449,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2450,f5df6474e62c9dc8,Thermal Issue,Thermal Issue,Capacity Degradation
+syn_2451,1c039104578a7813,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2452,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2453,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2454,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2455,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2456,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2457,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2458,dd3ba80a8b9c5926,Other,Other,Other
+syn_2459,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2460,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2461,49d1b5a3222efb59,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2462,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2463,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2464,106eb87a50f42ffe,Other,Other,Other
+syn_2465,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2466,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2467,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2468,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2469,58ea6f628fb145ed,Capacity Degradation,Capacity Degradation,Other
+syn_2470,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2471,b097910c740e7405,Charging Issue,Thermal Issue,Charging Issue
+syn_2472,dd3ba80a8b9c5926,Other,Other,Other
+syn_2473,40b3a1b43c6b4ac5,Range/Performance,Charging Issue,Range/Performance
+syn_2474,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2475,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue
+syn_2476,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2477,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2478,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2479,2c3c463046205448,Charging Issue,Charging Issue,Charging Issue
+syn_2480,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2481,cffb93da026f82a9,Range/Performance,Range/Performance,Range/Performance
+syn_2482,58ea6f628fb145ed,Capacity Degradation,Other,Other
+syn_2483,b7cf421201528a19,Charging Issue,Range/Performance,Charging Issue
+syn_2484,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2485,b57481929b634af5,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2486,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2487,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2488,8ce229451dc40693,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2489,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2490,8717fec1d9c8bc98,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2491,0c4a56434184892c,Capacity Degradation,Other,Capacity Degradation
+syn_2492,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2493,582b62df422e8cc4,Range/Performance,Charging Issue,Range/Performance
+syn_2494,b480745272f92b4d,Other,Capacity Degradation,Thermal Issue
+syn_2495,106eb87a50f42ffe,Other,Other,Other
+syn_2496,943779a4bb2e498a,Charging Issue,Range/Performance,Charging Issue
+syn_2497,f3e9e16b00a5f677,Capacity Degradation,Capacity Degradation,Capacity Degradation
+syn_2498,3293173571bd34a8,Thermal Issue,Thermal Issue,Thermal Issue
+syn_2499,c00f13e926dec511,Range/Performance,Range/Performance,Range/Performance
+syn_2500,5247200e02425fd3,Charging Issue,Range/Performance,Charging Issue

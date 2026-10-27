@@ -5,6 +5,9 @@ import react from "@vitejs/plugin-react";
 // single origin during development. For production builds, set VITE_API_BASE.
 export default defineConfig({
   plugins: [react()],
+  build: {
+    rollupOptions: { output: { manualChunks: { charts: ["recharts"], react: ["react", "react-dom"] } } },
+  },
   server: {
     port: 5173,
     proxy: {

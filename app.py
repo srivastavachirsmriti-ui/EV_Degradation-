@@ -1,4 +1,10 @@
 import os
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent / "backend"))
+from model_service import model_service
+from config import DATA_PATH as CONFIGURED_DATA_PATH
 
 import joblib
 import matplotlib.pyplot as plt
@@ -6,7 +12,7 @@ import pandas as pd
 import streamlit as st
 
 
-DATA_PATH = "dashboard_data.csv"
+DATA_PATH = str(CONFIGURED_DATA_PATH)
 VECTORIZER_PATH = "cluster_tfidf_vectorizer.joblib"
 CLUSTER_MODEL_PATH = "kmeans_model.joblib"
 CLASSIFIER_PATH = "final_classifier.joblib"
@@ -35,42 +41,18 @@ def load_dataset():
 
 @st.cache_resource
 def load_models():
-    models = {}
-    for name, path in [
-        ("vectorizer", VECTORIZER_PATH),
-        ("clusterer", CLUSTER_MODEL_PATH),
-        ("classifier", CLASSIFIER_PATH),
-    ]:
-        if not os.path.exists(path):
-            raise FileNotFoundError(f"Model file not found: {path}")
-        models[name] = joblib.load(path)
-    return models
+    return model_service.load()
 
 
 def predict_issue_from_text(text: str):
     if not text or not text.strip():
         return {"issue": "Please enter a complaint description.", "cluster": None}
-
-    models = load_models()
-    vectorizer = models["vectorizer"]
-    clusterer = models["clusterer"]
-    classifier = models["classifier"]
-
     try:
-        X = vectorizer.transform([text])
-        cluster = int(clusterer.predict(X)[0])
-    except Exception:
-        cluster = None
-
-    try:
-        issue = classifier.predict(X)[0]
-    except Exception:
-        try:
-            issue = classifier.predict([text])[0]
-        except Exception:
-            issue = "Unable to classify"
-
-    return {"issue": str(issue), "cluster": cluster}
+        result = model_service.predict(text)
+        return {"issue": result["issue_category"], "cluster": result["cluster_id"],
+                "needs_review": result["needs_review"]}
+    except ValueError as exc:
+        return {"issue": str(exc), "cluster": None}
 
 
 st.set_page_config(page_title="EV Battery Health Dashboard", layout="wide")
@@ -179,6 +161,8 @@ text_input = st.text_area(
 if st.button("Predict issue"):
     prediction = predict_issue_from_text(text_input)
     st.success(f"Predicted issue: {prediction['issue']}")
+    if prediction.get("needs_review"):
+        st.warning("This result requires manual review.")
     if prediction["cluster"] is not None:
         st.info(f"Assigned cluster: {prediction['cluster']}")
 

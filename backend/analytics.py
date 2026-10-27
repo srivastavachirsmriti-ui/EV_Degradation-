@@ -14,18 +14,21 @@ Notes about the dataset:
 from __future__ import annotations
 
 import math
+import json
+import hashlib
 import threading
+from functools import lru_cache
 from typing import Any
 
 import numpy as np
 import pandas as pd
 
-from config import DATA_PATH
+from config import DATA_PATH, EVALUATION_PATH, PROJECT_ROOT, CLASSIFIER_PATH, REGRESSOR_PATH
 
 _LOCK = threading.Lock()
 _CACHE: dict[str, Any] = {}
 
-AGE_BINS = [0, 12, 24, 48, 72, 96, 120]
+AGE_BINS = [0, 12, 24, 48, 72, 96, float("inf")]
 AGE_LABELS = ["0-11", "12-23", "24-47", "48-71", "72-95", "96+"]
 
 NUMERIC_COLUMNS = [
@@ -74,6 +77,7 @@ def _distribution(series: pd.Series, key_name: str) -> list[dict[str, Any]]:
     return [{key_name: str(k), "count": int(v)} for k, v in counts.items()]
 
 
+@lru_cache(maxsize=1)
 def cluster_labels() -> dict[int, dict[str, Any]]:
     """Derive a human label for each K-Means cluster from the dataset itself."""
     df = load_dataframe()
@@ -116,6 +120,26 @@ def _age_trend(df: pd.DataFrame) -> list[dict[str, Any]]:
     return rows
 
 
+def evaluation_payload():
+    if not EVALUATION_PATH.exists():
+        return None
+    result = json.loads(EVALUATION_PATH.read_text())
+    if result["dataset_sha256"] != hashlib.sha256(DATA_PATH.read_bytes()).hexdigest():
+        return None
+    for name, path in [("final_classifier.joblib", CLASSIFIER_PATH), ("degradation_regressor.joblib", REGRESSOR_PATH)]:
+        if not path.exists() or result["artifact_sha256"][name] != hashlib.sha256(path.read_bytes()).hexdigest():
+            return None
+    baseline = json.loads((PROJECT_ROOT / "benchmarks/baseline.json").read_text())
+    return {"note": result["note"], "classification": result["classification"],
+            "regression": result["regression"],
+            "baseline_classification": baseline["reconstructed_sgd_group_test"],
+            "baseline_regression": baseline["regression_reconstructed_rf"],
+            "metrics": {"classification_accuracy": result["classification"]["accuracy"],
+                        "classification_macro_f1": result["classification"]["macro_f1"],
+                        "regression_mae": result["regression"]["mae"], "regression_r2": result["regression"]["r2"]}}
+
+
+@lru_cache(maxsize=1)
 def analytics_payload() -> dict[str, Any]:
     df = load_dataframe()
     total = int(len(df))
@@ -169,13 +193,8 @@ def analytics_payload() -> dict[str, Any]:
             for _, row in grouped.iterrows()
         ]
 
-    evaluation = None
-    evaluation_note = (
-        "No held-out evaluation file was provided with the project. The models "
-        "would score ~100% on the synthetic training data itself, which is "
-        "meaningless, so no accuracy metric is shown. Add a versioned evaluation "
-        "file to display real metrics."
-    )
+    evaluation = evaluation_payload()
+    evaluation_note = "Synthetic development evaluation with versioned splits and artifact hashes." if evaluation else "Evaluation is missing or does not match the dataset/model artifacts."
 
     payload = {
         "dataset": {

@@ -27,6 +27,16 @@ export default function EvaluationPanel({ evaluation, note }) {
           </div>
         ))}
       </div>
+      <div className="table-scroll" style={{ marginTop: 20 }}>
+        <table><thead><tr><th>Benchmark</th><th>Baseline</th><th>Current</th></tr></thead>
+          <tbody>
+            <tr><td>Classification accuracy</td><td>{(evaluation.baseline_classification.accuracy * 100).toFixed(2)}%</td><td>{(evaluation.classification.accuracy * 100).toFixed(2)}%</td></tr>
+            <tr><td>Classification macro F1</td><td>{evaluation.baseline_classification.macro_f1.toFixed(3)}</td><td>{evaluation.classification.macro_f1.toFixed(3)}</td></tr>
+            <tr><td>Regression MAE (percentage points)</td><td>{evaluation.baseline_regression.mae.toFixed(3)}</td><td>{evaluation.regression.mae.toFixed(3)}</td></tr>
+            <tr><td>Regression R²</td><td>{evaluation.baseline_regression.r2.toFixed(3)}</td><td>{evaluation.regression.r2.toFixed(3)}</td></tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }
