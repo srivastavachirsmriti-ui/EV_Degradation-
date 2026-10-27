@@ -12,6 +12,16 @@ venv/
 env/
 ENV/
 backend/.venv/
+.venv*/
+
+# Generated documents, source references, screenshots and private build files.
+output/
+reports/
+tmp/
+.codex-finalizer/
+*.pdf
+*.pptx
+*.docx
 
 # --- Node / Vite ------------------------------------------------------------
 node_modules/
