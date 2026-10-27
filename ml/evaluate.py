@@ -4,6 +4,7 @@ from __future__ import annotations
 import hashlib
 import re
 import time
+from pathlib import Path
 
 import numpy as np
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, f1_score
@@ -12,6 +13,18 @@ from sklearn.model_selection import StratifiedKFold
 
 FEATURES = ["vehicle_age_months", "total_charging_cycles", "avg_temperature_c",
             "fast_charge_ratio", "avg_discharge_rate_c"]
+
+
+def code_fingerprint(root):
+    """Tie recorded checks to runtime, model-development and frontend sources."""
+    root = Path(root)
+    files = sorted({p for pattern in ["backend/**/*.py", "ml/*.py", "frontend/src/**/*", "frontend/*.js", "frontend/package*.json"]
+                    for p in root.glob(pattern) if p.is_file()})
+    digest = hashlib.sha256()
+    for path in files:
+        digest.update(str(path.relative_to(root)).encode())
+        digest.update(path.read_bytes())
+    return digest.hexdigest()
 
 
 def template_groups(df):

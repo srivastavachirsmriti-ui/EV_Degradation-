@@ -124,8 +124,14 @@ def evaluation_payload():
     valid_oof = validation.get("classifier_sha256") == result["artifact_sha256"]["final_classifier.joblib"] and validation.get("dataset_sha256") == result["dataset_sha256"]
     current = validation["current_oof"] if valid_oof else result["classification"]
     original = validation["baseline_oof"] if valid_oof else baseline["reconstructed_sgd_group_test"]
+    from ml.evaluate import code_fingerprint
+    checks_path = PROJECT_ROOT / "benchmarks/checks.json"
+    checks = json.loads(checks_path.read_text()) if checks_path.exists() else None
+    if checks and checks.get("code_sha256") != code_fingerprint(PROJECT_ROOT):
+        checks = None
     return {"note": validation["scope"] if valid_oof else result["note"], "classification": current,
             "development_holdout": result["classification"],
+            "checks": checks,
             "regression": result["regression"],
             "baseline_classification": original,
             "baseline_regression": baseline["regression_reconstructed_rf"],

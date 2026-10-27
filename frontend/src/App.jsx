@@ -27,13 +27,31 @@ export default function App() {
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
   const [retry, setRetry] = useState(0);
+  const [theme, setTheme] = useState(() => {
+    const saved = localStorage.getItem("ev-theme");
+    return saved === "dark" || saved === "light" ? saved : "system";
+  });
   const heading = useRef(null);
+  useEffect(() => {
+    const preference = window.matchMedia("(prefers-color-scheme: dark)");
+    const apply = () => { document.documentElement.dataset.theme = theme === "system" ? (preference.matches ? "dark" : "light") : theme; };
+    apply(); localStorage.setItem("ev-theme", theme);
+    preference.addEventListener("change", apply);
+    return () => preference.removeEventListener("change", apply);
+  }, [theme]);
   useEffect(() => {
     const change = () => { setView(readView()); window.scrollTo({ top: 0 }); };
     window.addEventListener("hashchange", change);
     return () => window.removeEventListener("hashchange", change);
   }, []);
   useEffect(() => { heading.current?.focus({ preventScroll: true }); }, [view]);
+  useEffect(() => {
+    // Refresh evidence on navigation without unmounting forms or discarding input.
+    if (view !== "results") return;
+    let active = true;
+    getAnalytics().then((data) => { if (active) setAnalytics(data); }).catch(() => {});
+    return () => { active = false; };
+  }, [view]);
   useEffect(() => {
     let active = true;
     setLoading(true); setError(null);
@@ -53,7 +71,16 @@ export default function App() {
       <div className="nav-caption">YOUR WORKSPACE</div>
       <nav aria-label="Main navigation">{Object.entries(VIEWS).map(([key, item]) =>
         <a href={`#${key}`} key={key} className={`nav-item ${view === key ? "selected" : ""}`} aria-current={view === key ? "page" : undefined}><Icon name={key} /><span>{item.label}</span></a>)}</nav>
-      <div className="sidebar-bottom"><span className={`dot ${health?.models?.loaded ? "ok" : "warn"}`} />{loading ? "Loading project" : error ? "Connection unavailable" : "Project ready"}<p>EV complaint mining<br />Academic research project</p></div>
+      <div className="sidebar-bottom">
+        {analytics?.evaluation && <section className="model-insights" aria-label="Model insights"><h2>Model insights</h2><dl>
+          <div><dt>Accuracy</dt><dd>{(analytics.evaluation.classification.accuracy * 100).toFixed(2)}%</dd></div>
+          <div><dt>Macro F1</dt><dd>{analytics.evaluation.classification.macro_f1.toFixed(3)}</dd></div>
+          <div><dt>Validation loss</dt><dd>{analytics.evaluation.development_holdout.log_loss.toFixed(3)}</dd></div>
+          <div><dt>Tests</dt><dd>{analytics.evaluation.checks?.tests_passed ? `${analytics.evaluation.checks.tests_passed} passed` : "Not recorded"}</dd></div>
+        </dl><p>Accuracy: grouped validation.<br />Loss: development log loss.</p><a href="#results">View full results <Icon name="arrow" size={14} /></a></section>}
+        <label className="theme-control">Appearance<select value={theme} onChange={(e) => setTheme(e.target.value)} aria-label="Appearance"><option value="system">System</option><option value="light">Light</option><option value="dark">Dark</option></select></label>
+        <span className={`dot ${health?.models?.loaded ? "ok" : "warn"}`} />{loading ? "Loading project" : error ? "Connection unavailable" : "Project ready"}
+      </div>
     </aside>
     <main id="main-content" className="main-content">
       <div className="page-context"><span>EV battery research</span><span className="dataset-label">Synthetic dataset</span></div>

@@ -39,6 +39,22 @@ The legacy Streamlit app uses the same prediction service. Install
 
 ## Models and validation
 
+| Measured result | Original / reconstructed baseline | Improved |
+| --- | ---: | ---: |
+| Classification pooled grouped OOF accuracy | 51.88% | 87.36% |
+| Classification pooled grouped OOF macro F1 | 0.500 | 0.858 |
+| Regression MAE (percentage points) | 1.125 | 1.064 |
+| Regression R² | 0.515 | 0.569 |
+
+The accuracy increase is **35.48 percentage points**. These are synthetic,
+post-selection development results, with only 25 independent wording families.
+The classifier has no independent external test. Regression uses the fixed
+500-row synthetic test. Full protocols and per-class errors follow below.
+
+The dashboard offers five task views, system/light/dark appearance, preserved
+form inputs and a bottom-left Model insights summary. See [design rationale](docs/DESIGN.md)
+for the audience, palette, navigation and usability decisions.
+
 The original TF-IDF/SGD classifier used only four optimization passes. A clone
 retrained on template-separated folds supplies a comparable baseline. Exact
 text duplicates and substitutions of vehicle names/numbers must not cross folds.
